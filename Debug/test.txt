@@ -1,0 +1,6 @@
+on
+rm pipe -f
+mkfifo /tmp/mypipe
+on
+rm pipe -f
+mkfifo /tmp/mypipe
