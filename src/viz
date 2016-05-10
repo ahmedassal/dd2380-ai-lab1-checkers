@@ -1,4 +1,0 @@
-#!/bin/bash
-cp checkers playerA -f
-cp checkers playerB -f
-./visualizer -1 './playerA init' -2 './playerB' -t 500 -r
