@@ -1,0 +1,6 @@
+#!/bin/bash
+echo on
+#g++ *.cpp -Wall -o checkers
+echo rm pipe -f
+echo mkfifo /tmp/mypipe
+./checkers init verbose < /tmp/mypipe | ./checkers > /tmp/mypipe

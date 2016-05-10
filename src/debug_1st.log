@@ -1,0 +1,4584 @@
+- 18:34:23.847 INFO: play
+- 18:34:23.847 INFO: 
+- 18:34:23.847 INFO: 1.17549e-38
+- 18:34:23.847 INFO: 3.40282e+38
+- 18:34:23.847 INFO: Next Possible Moves # 7
+- 18:34:23.847 INFO: Next Player: 
+- 18:34:23.847 INFO: ########## START TURN ##########
+- 18:34:23.847 INFO: lNextStates Size 7
+- 18:34:23.847 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 8-12
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 8-13
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   r   .   r   r | 11     Last move: 9-13
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   r   .   r   r | 11     Last move: 9-14
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 10-14
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 10-15
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   r   r   r   . | 11     Last move: 11-15
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: ##########  END TURN  ##########
+- 18:34:23.848 INFO: Calling first
+- 18:34:23.848 INFO: Prev move (string): BOG
+- 18:34:23.848 INFO: Prev move (message): -1
+- 18:34:23.848 INFO: Suggested move (string): 8-12
+- 18:34:23.848 INFO: Suggested move (message): 0_8_12
+- 18:34:23.848 INFO: 
+-------------------Result----------------------
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 8-12
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.848 INFO: play
+- 18:34:23.848 INFO: 
+- 18:34:23.848 INFO: 1.17549e-38
+- 18:34:23.848 INFO: 3.40282e+38
+- 18:34:23.848 INFO: Next Possible Moves # 7
+- 18:34:23.848 INFO: Next Player: 
+- 18:34:23.848 INFO: ########## START TURN ##########
+- 18:34:23.848 INFO: lNextStates Size 7
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 20-16
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 48
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 21-16
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 48
+ 20 | w   .   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.848 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 21-17
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   w   .   . | 19     Moves until draw: 48
+ 20 | w   .   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 22-17
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   w   .   . | 19     Moves until draw: 48
+ 20 | w   w   .   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 22-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   . | 19     Moves until draw: 48
+ 20 | w   w   .   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 23-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   . | 19     Moves until draw: 48
+ 20 | w   w   w   .   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 23-19
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   w | 19     Moves until draw: 48
+ 20 | w   w   w   .   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: ##########  END TURN  ##########
+- 18:34:23.849 INFO: Calling first
+- 18:34:23.849 INFO: Prev move (string): 8-12
+- 18:34:23.849 INFO: Prev move (message): 0_8_12
+- 18:34:23.849 INFO: Suggested move (string): 20-16
+- 18:34:23.849 INFO: Suggested move (message): 0_20_16
+- 18:34:23.849 INFO: 
+-------------------Result----------------------
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 20-16
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 48
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.849 INFO: play
+- 18:34:23.849 INFO: 
+- 18:34:23.849 INFO: 1.17549e-38
+- 18:34:23.849 INFO: 3.40282e+38
+- 18:34:23.849 INFO: Next Possible Moves # 7
+- 18:34:23.849 INFO: Next Player: 
+- 18:34:23.849 INFO: ########## START TURN ##########
+- 18:34:23.849 INFO: lNextStates Size 7
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 4-8
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   .   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 5-8
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9-13
+ 12 | r   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9-14
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 10-14
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 10-15
+ 12 | r   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   r   r   . | 11     Last move: 11-15
+ 12 | r   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.849 INFO: ##########  END TURN  ##########
+- 18:34:23.849 INFO: Calling first
+- 18:34:23.849 INFO: Prev move (string): 20-16
+- 18:34:23.849 INFO: Prev move (message): 0_20_16
+- 18:34:23.850 INFO: Suggested move (string): 4-8
+- 18:34:23.850 INFO: Suggested move (message): 0_4_8
+- 18:34:23.850 INFO: 
+-------------------Result----------------------
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 4-8
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 47
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.850 INFO: play
+- 18:34:23.850 INFO: 
+- 18:34:23.850 INFO: 1.17549e-38
+- 18:34:23.850 INFO: 3.40282e+38
+- 18:34:23.850 INFO: Next Possible Moves # 7
+- 18:34:23.850 INFO: Next Player: 
+- 18:34:23.850 INFO: ########## START TURN ##########
+- 18:34:23.850 INFO: lNextStates Size 7
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 16-13
+ 12 | r   w   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 46
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 21-17
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   w   .   . | 19     Moves until draw: 46
+ 20 | .   .   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 22-17
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   w   .   . | 19     Moves until draw: 46
+ 20 | .   w   .   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 22-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   w   . | 19     Moves until draw: 46
+ 20 | .   w   .   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 23-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   w   . | 19     Moves until draw: 46
+ 20 | .   w   w   .   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 23-19
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   w | 19     Moves until draw: 46
+ 20 | .   w   w   .   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 24-20
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 46
+ 20 | w   w   w   w   | 23     Red pieces:   12
+ 24 |   .   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: ##########  END TURN  ##########
+- 18:34:23.850 INFO: Calling first
+- 18:34:23.850 INFO: Prev move (string): 4-8
+- 18:34:23.850 INFO: Prev move (message): 0_4_8
+- 18:34:23.850 INFO: Suggested move (string): 16-13
+- 18:34:23.850 INFO: Suggested move (message): 0_16_13
+- 18:34:23.850 INFO: 
+-------------------Result----------------------
+- 18:34:23.850 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   r   r   r | 11     Last move: 16-13
+ 12 | r   w   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 46
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 12
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.850 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.851 INFO: play
+- 18:34:23.851 INFO: 
+- 18:34:23.851 INFO: 1.17549e-38
+- 18:34:23.851 INFO: 3.40282e+38
+- 18:34:23.851 INFO: Next Possible Moves # 2
+- 18:34:23.851 INFO: Next Player: 
+- 18:34:23.851 INFO: ########## START TURN ##########
+- 18:34:23.851 INFO: lNextStates Size 2
+- 18:34:23.851 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 8x17
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   . | 19     Moves until draw: 50
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.851 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   r   r | 11     Last move: 9x16
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   .   . | 19     Moves until draw: 50
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.851 INFO: ##########  END TURN  ##########
+- 18:34:23.851 INFO: Calling first
+- 18:34:23.851 INFO: Prev move (string): 16-13
+- 18:34:23.851 INFO: Prev move (message): 0_16_13
+- 18:34:23.851 INFO: Suggested move (string): 8x17
+- 18:34:23.851 INFO: Suggested move (message): 1_8_17
+- 18:34:23.851 INFO: 
+-------------------Result----------------------
+- 18:34:23.851 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 8x17
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   . | 19     Moves until draw: 50
+ 20 | .   w   w   w   | 23     Red pieces:   12
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.851 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.851 INFO: play
+- 18:34:23.851 INFO: 
+- 18:34:23.851 INFO: 1.17549e-38
+- 18:34:23.851 INFO: 3.40282e+38
+- 18:34:23.851 INFO: Next Possible Moves # 2
+- 18:34:23.851 INFO: Next Player: 
+- 18:34:23.851 INFO: ########## START TURN ##########
+- 18:34:23.851 INFO: lNextStates Size 2
+- 18:34:23.851 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 21x14
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   w   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.851 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 22x13
+ 12 | r   w   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   w   .   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.851 INFO: ##########  END TURN  ##########
+- 18:34:23.851 INFO: Calling first
+- 18:34:23.851 INFO: Prev move (string): 8x17
+- 18:34:23.852 INFO: Prev move (message): 1_8_17
+- 18:34:23.852 INFO: Suggested move (string): 21x14
+- 18:34:23.852 INFO: Suggested move (message): 1_21_14
+- 18:34:23.852 INFO: 
+-------------------Result----------------------
+- 18:34:23.852 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 21x14
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   w   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 11
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.852 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.852 INFO: play
+- 18:34:23.852 INFO: 
+- 18:34:23.852 INFO: 1.17549e-38
+- 18:34:23.852 INFO: 3.40282e+38
+- 18:34:23.852 INFO: Next Possible Moves # 2
+- 18:34:23.852 INFO: Next Player: 
+- 18:34:23.852 INFO: ########## START TURN ##########
+- 18:34:23.852 INFO: lNextStates Size 2
+- 18:34:23.852 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9x18
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   . | 19     Moves until draw: 50
+ 20 | .   .   w   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.852 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 10x17
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   . | 19     Moves until draw: 50
+ 20 | .   .   w   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.852 INFO: ##########  END TURN  ##########
+- 18:34:23.852 INFO: Calling first
+- 18:34:23.852 INFO: Prev move (string): 21x14
+- 18:34:23.852 INFO: Prev move (message): 1_21_14
+- 18:34:23.852 INFO: Suggested move (string): 9x18
+- 18:34:23.852 INFO: Suggested move (message): 1_9_18
+- 18:34:23.852 INFO: 
+-------------------Result----------------------
+- 18:34:23.852 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9x18
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   . | 19     Moves until draw: 50
+ 20 | .   .   w   w   | 23     Red pieces:   11
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.852 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.852 INFO: play
+- 18:34:23.852 INFO: 
+- 18:34:23.852 INFO: 1.17549e-38
+- 18:34:23.852 INFO: 3.40282e+38
+- 18:34:23.852 INFO: Next Possible Moves # 2
+- 18:34:23.853 INFO: Next Player: 
+- 18:34:23.853 INFO: ########## START TURN ##########
+- 18:34:23.853 INFO: lNextStates Size 2
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 22x15
+ 12 | r   .   .   w   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 23x14
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: ##########  END TURN  ##########
+- 18:34:23.853 INFO: Calling first
+- 18:34:23.853 INFO: Prev move (string): 9x18
+- 18:34:23.853 INFO: Prev move (message): 1_9_18
+- 18:34:23.853 INFO: Suggested move (string): 22x15
+- 18:34:23.853 INFO: Suggested move (message): 1_22_15
+- 18:34:23.853 INFO: 
+-------------------Result----------------------
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 22x15
+ 12 | r   .   .   w   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 10
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.853 INFO: play
+- 18:34:23.853 INFO: 
+- 18:34:23.853 INFO: 1.17549e-38
+- 18:34:23.853 INFO: 3.40282e+38
+- 18:34:23.853 INFO: Next Possible Moves # 2
+- 18:34:23.853 INFO: Next Player: 
+- 18:34:23.853 INFO: ########## START TURN ##########
+- 18:34:23.853 INFO: lNextStates Size 2
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 10x19
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   r   . | 11     Last move: 11x18
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   . | 19     Moves until draw: 50
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: ##########  END TURN  ##########
+- 18:34:23.853 INFO: Calling first
+- 18:34:23.853 INFO: Prev move (string): 22x15
+- 18:34:23.853 INFO: Prev move (message): 1_22_15
+- 18:34:23.853 INFO: Suggested move (string): 10x19
+- 18:34:23.853 INFO: Suggested move (message): 1_10_19
+- 18:34:23.853 INFO: 
+-------------------Result----------------------
+- 18:34:23.853 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 10x19
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.853 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.854 INFO: play
+- 18:34:23.854 INFO: 
+- 18:34:23.854 INFO: 1.17549e-38
+- 18:34:23.854 INFO: 3.40282e+38
+- 18:34:23.854 INFO: Next Possible Moves # 6
+- 18:34:23.854 INFO: Next Player: 
+- 18:34:23.854 INFO: ########## START TURN ##########
+- 18:34:23.854 INFO: lNextStates Size 6
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 23-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 24-20
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | w   .   .   w   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 24-21
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   w   .   w   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 25-21
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   w   .   w   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 25-22
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   w   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 26-22
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   w   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: ##########  END TURN  ##########
+- 18:34:23.854 INFO: Calling first
+- 18:34:23.854 INFO: Prev move (string): 10x19
+- 18:34:23.854 INFO: Prev move (message): 1_10_19
+- 18:34:23.854 INFO: Suggested move (string): 23-18
+- 18:34:23.854 INFO: Suggested move (message): 0_23_18
+- 18:34:23.854 INFO: 
+-------------------Result----------------------
+- 18:34:23.854 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 23-18
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.854 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.854 INFO: play
+- 18:34:23.854 INFO: 
+- 18:34:23.854 INFO: 1.17549e-38
+- 18:34:23.854 INFO: 3.40282e+38
+- 18:34:23.855 INFO: Next Possible Moves # 9
+- 18:34:23.855 INFO: Next Player: 
+- 18:34:23.855 INFO: ########## START TURN ##########
+- 18:34:23.855 INFO: lNextStates Size 9
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 0-4
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 5-8
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 5-9
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 6-9
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   .   r   | 7
+  8 |   .   .   r   r | 11     Last move: 6-10
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   .   | 7
+  8 |   .   .   r   r | 11     Last move: 7-10
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   . | 11     Last move: 11-15
+ 12 | r   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 12-16
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   r   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 19-23
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   . | 19     Moves until draw: 48
+ 20 | .   .   .   r   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: ##########  END TURN  ##########
+- 18:34:23.855 INFO: Calling first
+- 18:34:23.855 INFO: Prev move (string): 23-18
+- 18:34:23.855 INFO: Prev move (message): 0_23_18
+- 18:34:23.855 INFO: Suggested move (string): 0-4
+- 18:34:23.855 INFO: Suggested move (message): 0_0_4
+- 18:34:23.855 INFO: 
+-------------------Result----------------------
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 0-4
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.855 INFO: play
+- 18:34:23.855 INFO: 
+- 18:34:23.855 INFO: 1.17549e-38
+- 18:34:23.855 INFO: 3.40282e+38
+- 18:34:23.855 INFO: Next Possible Moves # 9
+- 18:34:23.855 INFO: Next Player: 
+- 18:34:23.855 INFO: ########## START TURN ##########
+- 18:34:23.855 INFO: lNextStates Size 9
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 18-14
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.855 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 18-15
+ 12 | r   .   .   w   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 24-20
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 24-21
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 25-21
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 25-22
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 26-22
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 26-23
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 27-23
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   . | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: ##########  END TURN  ##########
+- 18:34:23.856 INFO: Calling first
+- 18:34:23.856 INFO: Prev move (string): 0-4
+- 18:34:23.856 INFO: Prev move (message): 0_0_4
+- 18:34:23.856 INFO: Suggested move (string): 18-14
+- 18:34:23.856 INFO: Suggested move (message): 0_18_14
+- 18:34:23.856 INFO: 
+-------------------Result----------------------
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 18-14
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.856 INFO: play
+- 18:34:23.856 INFO: 
+- 18:34:23.856 INFO: 1.17549e-38
+- 18:34:23.856 INFO: 3.40282e+38
+- 18:34:23.856 INFO: Next Possible Moves # 9
+- 18:34:23.856 INFO: Next Player: 
+- 18:34:23.856 INFO: ########## START TURN ##########
+- 18:34:23.856 INFO: lNextStates Size 9
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 4-8
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 5-8
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   .   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 5-9
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 6-9
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   .   r   | 7
+  8 |   .   .   r   r | 11     Last move: 6-10
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   .   | 7
+  8 |   .   .   r   r | 11     Last move: 7-10
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   . | 11     Last move: 11-15
+ 12 | r   .   w   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.856 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 12-16
+ 12 | .   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | r   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 19-23
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 46
+ 20 | .   .   .   r   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: ##########  END TURN  ##########
+- 18:34:23.857 INFO: Calling first
+- 18:34:23.857 INFO: Prev move (string): 18-14
+- 18:34:23.857 INFO: Prev move (message): 0_18_14
+- 18:34:23.857 INFO: Suggested move (string): 4-8
+- 18:34:23.857 INFO: Suggested move (message): 0_4_8
+- 18:34:23.857 INFO: 
+-------------------Result----------------------
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 4-8
+ 12 | r   .   w   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.857 INFO: play
+- 18:34:23.857 INFO: 
+- 18:34:23.857 INFO: 1.17549e-38
+- 18:34:23.857 INFO: 3.40282e+38
+- 18:34:23.857 INFO: Next Possible Moves # 9
+- 18:34:23.857 INFO: Next Player: 
+- 18:34:23.857 INFO: ########## START TURN ##########
+- 18:34:23.857 INFO: lNextStates Size 9
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   w   .   r | 11     Last move: 14-9
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   w   r | 11     Last move: 14-10
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 24-20
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 24-21
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-21
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-22
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-22
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-23
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 27-23
+ 12 | r   .   w   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   . | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.857 INFO: ##########  END TURN  ##########
+- 18:34:23.857 INFO: Calling first
+- 18:34:23.857 INFO: Prev move (string): 4-8
+- 18:34:23.857 INFO: Prev move (message): 0_4_8
+- 18:34:23.858 INFO: Suggested move (string): 14-9
+- 18:34:23.858 INFO: Suggested move (message): 0_14_9
+- 18:34:23.858 INFO: 
+-------------------Result----------------------
+- 18:34:23.858 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   w   .   r | 11     Last move: 14-9
+ 12 | r   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 9
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.858 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.858 INFO: play
+- 18:34:23.858 INFO: 
+- 18:34:23.858 INFO: 1.17549e-38
+- 18:34:23.858 INFO: 3.40282e+38
+- 18:34:23.858 INFO: Next Possible Moves # 2
+- 18:34:23.858 INFO: Next Player: 
+- 18:34:23.858 INFO: ########## START TURN ##########
+- 18:34:23.858 INFO: lNextStates Size 2
+- 18:34:23.858 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 5x14
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.858 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   r   .   r   | 7
+  8 |   r   .   .   r | 11     Last move: 6x13
+ 12 | r   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.858 INFO: ##########  END TURN  ##########
+- 18:34:23.858 INFO: Calling first
+- 18:34:23.858 INFO: Prev move (string): 14-9
+- 18:34:23.858 INFO: Prev move (message): 0_14_9
+- 18:34:23.858 INFO: Suggested move (string): 5x14
+- 18:34:23.858 INFO: Suggested move (message): 1_5_14
+- 18:34:23.858 INFO: 
+-------------------Result----------------------
+- 18:34:23.858 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 5x14
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.858 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.859 INFO: play
+- 18:34:23.859 INFO: 
+- 18:34:23.859 INFO: 1.17549e-38
+- 18:34:23.859 INFO: 3.40282e+38
+- 18:34:23.859 INFO: Next Possible Moves # 7
+- 18:34:23.859 INFO: Next Player: 
+- 18:34:23.859 INFO: ########## START TURN ##########
+- 18:34:23.859 INFO: lNextStates Size 7
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 24-20
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 24-21
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-21
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   w   .   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-22
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   .   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-22
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   .   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-23
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   .   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 27-23
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   10
+ 24 |   w   w   w   . | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: ##########  END TURN  ##########
+- 18:34:23.859 INFO: Calling first
+- 18:34:23.859 INFO: Prev move (string): 5x14
+- 18:34:23.859 INFO: Prev move (message): 1_5_14
+- 18:34:23.859 INFO: Suggested move (string): 24-20
+- 18:34:23.859 INFO: Suggested move (message): 0_24_20
+- 18:34:23.859 INFO: 
+-------------------Result----------------------
+- 18:34:23.859 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 24-20
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.859 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.860 INFO: play
+- 18:34:23.860 INFO: 
+- 18:34:23.860 INFO: 1.17549e-38
+- 18:34:23.860 INFO: 3.40282e+38
+- 18:34:23.860 INFO: Next Possible Moves # 10
+- 18:34:23.860 INFO: Next Player: 
+- 18:34:23.860 INFO: ########## START TURN ##########
+- 18:34:23.860 INFO: lNextStates Size 10
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 1-5
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   .   r   | 7
+  8 |   r   r   .   r | 11     Last move: 6-9
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   .   r   | 7
+  8 |   r   .   r   r | 11     Last move: 6-10
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   .   | 7
+  8 |   r   .   r   r | 11     Last move: 7-10
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 8-13
+ 12 | r   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   . | 11     Last move: 11-15
+ 12 | r   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 12-16
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 14-17
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 14-18
+ 12 | r   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: 
+     -----------------
+  0 |   .   r   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 19-23
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | w   .   .   r   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.860 INFO: ##########  END TURN  ##########
+- 18:34:23.861 INFO: Calling first
+- 18:34:23.861 INFO: Prev move (string): 24-20
+- 18:34:23.861 INFO: Prev move (message): 0_24_20
+- 18:34:23.861 INFO: Suggested move (string): 1-5
+- 18:34:23.861 INFO: Suggested move (message): 0_1_5
+- 18:34:23.861 INFO: 
+-------------------Result----------------------
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 1-5
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.861 INFO: play
+- 18:34:23.861 INFO: 
+- 18:34:23.861 INFO: 1.17549e-38
+- 18:34:23.861 INFO: 3.40282e+38
+- 18:34:23.861 INFO: Next Possible Moves # 8
+- 18:34:23.861 INFO: Next Player: 
+- 18:34:23.861 INFO: ########## START TURN ##########
+- 18:34:23.861 INFO: lNextStates Size 8
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 20-16
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-21
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   w   .   .   | 23     Red pieces:   10
+ 24 |   .   .   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25-22
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   w   .   | 23     Red pieces:   10
+ 24 |   .   .   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-22
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   w   .   | 23     Red pieces:   10
+ 24 |   .   w   .   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 26-23
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   .   w   | 23     Red pieces:   10
+ 24 |   .   w   .   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 27-23
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   .   w   | 23     Red pieces:   10
+ 24 |   .   w   w   . | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 28-24
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 8
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 29-24
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | w   .   .   .   | 23     Red pieces:   10
+ 24 |   w   w   w   w | 27     White pieces: 8
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.861 INFO: ##########  END TURN  ##########
+- 18:34:23.861 INFO: Calling first
+- 18:34:23.861 INFO: Prev move (string): 1-5
+- 18:34:23.861 INFO: Prev move (message): 0_1_5
+- 18:34:23.861 INFO: Suggested move (string): 20-16
+- 18:34:23.861 INFO: Suggested move (message): 0_20_16
+- 18:34:23.861 INFO: 
+-------------------Result----------------------
+- 18:34:23.862 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 20-16
+ 12 | r   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 8
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.862 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.862 INFO: play
+- 18:34:23.862 INFO: 
+- 18:34:23.862 INFO: 1.17549e-38
+- 18:34:23.862 INFO: 3.40282e+38
+- 18:34:23.862 INFO: Next Possible Moves # 1
+- 18:34:23.862 INFO: Next Player: 
+- 18:34:23.862 INFO: ########## START TURN ##########
+- 18:34:23.862 INFO: lNextStates Size 1
+- 18:34:23.862 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 12x21
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.862 INFO: ##########  END TURN  ##########
+- 18:34:23.862 INFO: Calling first
+- 18:34:23.862 INFO: Prev move (string): 20-16
+- 18:34:23.862 INFO: Prev move (message): 0_20_16
+- 18:34:23.862 INFO: Suggested move (string): 12x21
+- 18:34:23.862 INFO: Suggested move (message): 1_12_21
+- 18:34:23.862 INFO: 
+-------------------Result----------------------
+- 18:34:23.862 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 12x21
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   10
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.862 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.862 INFO: play
+- 18:34:23.862 INFO: 
+- 18:34:23.862 INFO: 1.17549e-38
+- 18:34:23.862 INFO: 3.40282e+38
+- 18:34:23.862 INFO: Next Possible Moves # 1
+- 18:34:23.862 INFO: Next Player: 
+- 18:34:23.862 INFO: ########## START TURN ##########
+- 18:34:23.863 INFO: lNextStates Size 1
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25x16
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: ##########  END TURN  ##########
+- 18:34:23.863 INFO: Calling first
+- 18:34:23.863 INFO: Prev move (string): 12x21
+- 18:34:23.863 INFO: Prev move (message): 1_12_21
+- 18:34:23.863 INFO: Suggested move (string): 25x16
+- 18:34:23.863 INFO: Suggested move (message): 1_25_16
+- 18:34:23.863 INFO: 
+-------------------Result----------------------
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 25x16
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.863 INFO: play
+- 18:34:23.863 INFO: 
+- 18:34:23.863 INFO: 1.17549e-38
+- 18:34:23.863 INFO: 3.40282e+38
+- 18:34:23.863 INFO: Next Possible Moves # 10
+- 18:34:23.863 INFO: Next Player: 
+- 18:34:23.863 INFO: ########## START TURN ##########
+- 18:34:23.863 INFO: lNextStates Size 10
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 5-9
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   .   r   | 7
+  8 |   r   r   .   r | 11     Last move: 6-9
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   .   r   | 7
+  8 |   r   .   r   r | 11     Last move: 6-10
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   .   | 7
+  8 |   r   .   r   r | 11     Last move: 7-10
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 8-12
+ 12 | r   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 8-13
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   . | 11     Last move: 11-15
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 14-17
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   r   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 14-18
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   r   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   r   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 19-23
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   .   r   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.863 INFO: ##########  END TURN  ##########
+- 18:34:23.863 INFO: Calling first
+- 18:34:23.864 INFO: Prev move (string): 25x16
+- 18:34:23.864 INFO: Prev move (message): 1_25_16
+- 18:34:23.864 INFO: Suggested move (string): 5-9
+- 18:34:23.864 INFO: Suggested move (message): 0_5_9
+- 18:34:23.864 INFO: 
+-------------------Result----------------------
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 5-9
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.864 INFO: play
+- 18:34:23.864 INFO: 
+- 18:34:23.864 INFO: 1.17549e-38
+- 18:34:23.864 INFO: 3.40282e+38
+- 18:34:23.864 INFO: Next Possible Moves # 9
+- 18:34:23.864 INFO: Next Player: 
+- 18:34:23.864 INFO: ########## START TURN ##########
+- 18:34:23.864 INFO: lNextStates Size 9
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 16-12
+ 12 | w   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 16-13
+ 12 | .   w   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 26-22
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   9
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 26-23
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   w   | 23     Red pieces:   9
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 27-23
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   w   | 23     Red pieces:   9
+ 24 |   .   .   w   . | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 28-24
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 29-24
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 29-25
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 30-25
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   w   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.864 INFO: ##########  END TURN  ##########
+- 18:34:23.864 INFO: Calling first
+- 18:34:23.864 INFO: Prev move (string): 5-9
+- 18:34:23.864 INFO: Prev move (message): 0_5_9
+- 18:34:23.865 INFO: Suggested move (string): 16-12
+- 18:34:23.865 INFO: Suggested move (message): 0_16_12
+- 18:34:23.865 INFO: 
+-------------------Result----------------------
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 16-12
+ 12 | w   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.865 INFO: play
+- 18:34:23.865 INFO: 
+- 18:34:23.865 INFO: 1.17549e-38
+- 18:34:23.865 INFO: 3.40282e+38
+- 18:34:23.865 INFO: Next Possible Moves # 8
+- 18:34:23.865 INFO: Next Player: 
+- 18:34:23.865 INFO: ########## START TURN ##########
+- 18:34:23.865 INFO: lNextStates Size 8
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   .   r   | 7
+  8 |   r   r   r   r | 11     Last move: 6-10
+ 12 | w   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   .   | 7
+  8 |   r   r   r   r | 11     Last move: 7-10
+ 12 | w   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 8-13
+ 12 | w   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   .   .   r | 11     Last move: 9-13
+ 12 | w   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   . | 11     Last move: 11-15
+ 12 | w   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 14-17
+ 12 | w   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 14-18
+ 12 | w   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   r   r   | 7
+  8 |   r   r   .   r | 11     Last move: 19-23
+ 12 | w   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 47
+ 20 | .   .   .   r   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: ##########  END TURN  ##########
+- 18:34:23.865 INFO: Calling first
+- 18:34:23.865 INFO: Prev move (string): 16-12
+- 18:34:23.865 INFO: Prev move (message): 0_16_12
+- 18:34:23.865 INFO: Suggested move (string): 6-10
+- 18:34:23.865 INFO: Suggested move (message): 0_6_10
+- 18:34:23.865 INFO: 
+-------------------Result----------------------
+- 18:34:23.865 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   .   .   r   | 7
+  8 |   r   r   r   r | 11     Last move: 6-10
+ 12 | w   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   9
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.865 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.866 INFO: play
+- 18:34:23.866 INFO: 
+- 18:34:23.866 INFO: 1.17549e-38
+- 18:34:23.866 INFO: 3.40282e+38
+- 18:34:23.866 INFO: Next Possible Moves # 1
+- 18:34:23.866 INFO: Next Player: 
+- 18:34:23.866 INFO: ########## START TURN ##########
+- 18:34:23.866 INFO: lNextStates Size 1
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 12x5
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: ##########  END TURN  ##########
+- 18:34:23.866 INFO: Calling first
+- 18:34:23.866 INFO: Prev move (string): 6-10
+- 18:34:23.866 INFO: Prev move (message): 0_6_10
+- 18:34:23.866 INFO: Suggested move (string): 12x5
+- 18:34:23.866 INFO: Suggested move (message): 1_12_5
+- 18:34:23.866 INFO: 
+-------------------Result----------------------
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 12x5
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.866 INFO: play
+- 18:34:23.866 INFO: 
+- 18:34:23.866 INFO: 1.17549e-38
+- 18:34:23.866 INFO: 3.40282e+38
+- 18:34:23.866 INFO: Next Possible Moves # 7
+- 18:34:23.866 INFO: Next Player: 
+- 18:34:23.866 INFO: ########## START TURN ##########
+- 18:34:23.866 INFO: lNextStates Size 7
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 2-6
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9-13
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 10-15
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   . | 11     Last move: 11-15
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.866 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 14-17
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 14-18
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   r   r | 3
+  4 | .   w   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 19-23
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   .   r   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: ##########  END TURN  ##########
+- 18:34:23.867 INFO: Calling first
+- 18:34:23.867 INFO: Prev move (string): 12x5
+- 18:34:23.867 INFO: Prev move (message): 1_12_5
+- 18:34:23.867 INFO: Suggested move (string): 2-6
+- 18:34:23.867 INFO: Suggested move (message): 0_2_6
+- 18:34:23.867 INFO: 
+-------------------Result----------------------
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 2-6
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.867 INFO: play
+- 18:34:23.867 INFO: 
+- 18:34:23.867 INFO: 1.17549e-38
+- 18:34:23.867 INFO: 3.40282e+38
+- 18:34:23.867 INFO: Next Possible Moves # 9
+- 18:34:23.867 INFO: Next Player: 
+- 18:34:23.867 INFO: ########## START TURN ##########
+- 18:34:23.867 INFO: lNextStates Size 9
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 5-0
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   W   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 5-1
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 26-22
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 26-23
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 27-23
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   w   . | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 28-24
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 29-25
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   w   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 30-25
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.867 INFO: ##########  END TURN  ##########
+- 18:34:23.867 INFO: Calling first
+- 18:34:23.867 INFO: Prev move (string): 2-6
+- 18:34:23.867 INFO: Prev move (message): 0_2_6
+- 18:34:23.868 INFO: Suggested move (string): 5-0
+- 18:34:23.868 INFO: Suggested move (message): 0_5_0
+- 18:34:23.868 INFO: 
+-------------------Result----------------------
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 5-0
+ 12 | .   .   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.868 INFO: play
+- 18:34:23.868 INFO: 
+- 18:34:23.868 INFO: 1.17549e-38
+- 18:34:23.868 INFO: 3.40282e+38
+- 18:34:23.868 INFO: Next Possible Moves # 6
+- 18:34:23.868 INFO: Next Player: 
+- 18:34:23.868 INFO: ########## START TURN ##########
+- 18:34:23.868 INFO: lNextStates Size 6
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9-13
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   .   r | 11     Last move: 10-15
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   . | 11     Last move: 11-15
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 14-17
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 14-18
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   r   r   r | 11     Last move: 19-23
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 47
+ 20 | .   .   .   r   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: ##########  END TURN  ##########
+- 18:34:23.868 INFO: Calling first
+- 18:34:23.868 INFO: Prev move (string): 5-0
+- 18:34:23.868 INFO: Prev move (message): 0_5_0
+- 18:34:23.868 INFO: Suggested move (string): 9-13
+- 18:34:23.868 INFO: Suggested move (message): 0_9_13
+- 18:34:23.868 INFO: 
+-------------------Result----------------------
+- 18:34:23.868 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 9-13
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.868 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.868 INFO: play
+- 18:34:23.869 INFO: 
+- 18:34:23.869 INFO: 1.17549e-38
+- 18:34:23.869 INFO: 3.40282e+38
+- 18:34:23.869 INFO: Next Possible Moves # 9
+- 18:34:23.869 INFO: Next Player: 
+- 18:34:23.869 INFO: ########## START TURN ##########
+- 18:34:23.869 INFO: lNextStates Size 9
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 0-4
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   W   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 0-5
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 26-22
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   w   .   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 26-23
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 27-23
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   w   . | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 28-24
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 29-24
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 29-25
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 30-25
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: ##########  END TURN  ##########
+- 18:34:23.869 INFO: Calling first
+- 18:34:23.869 INFO: Prev move (string): 9-13
+- 18:34:23.869 INFO: Prev move (message): 0_9_13
+- 18:34:23.869 INFO: Suggested move (string): 0-4
+- 18:34:23.869 INFO: Suggested move (message): 0_0_4
+- 18:34:23.869 INFO: 
+-------------------Result----------------------
+- 18:34:23.869 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 0-4
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 46
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.869 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.869 INFO: play
+- 18:34:23.869 INFO: 
+- 18:34:23.869 INFO: 1.17549e-38
+- 18:34:23.869 INFO: 3.40282e+38
+- 18:34:23.869 INFO: Next Possible Moves # 8
+- 18:34:23.869 INFO: Next Player: 
+- 18:34:23.869 INFO: ########## START TURN ##########
+- 18:34:23.870 INFO: lNextStates Size 8
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 6-9
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   .   r | 11     Last move: 10-15
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   . | 11     Last move: 11-15
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 13-16
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 13-17
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 14-17
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 14-18
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   r   r   | 7
+  8 |   .   .   r   r | 11     Last move: 19-23
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 45
+ 20 | .   .   .   r   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: ##########  END TURN  ##########
+- 18:34:23.870 INFO: Calling first
+- 18:34:23.870 INFO: Prev move (string): 0-4
+- 18:34:23.870 INFO: Prev move (message): 0_0_4
+- 18:34:23.870 INFO: Suggested move (string): 6-9
+- 18:34:23.870 INFO: Suggested move (message): 0_6_9
+- 18:34:23.870 INFO: 
+-------------------Result----------------------
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 6-9
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 45
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.870 INFO: play
+- 18:34:23.870 INFO: 
+- 18:34:23.870 INFO: 1.17549e-38
+- 18:34:23.870 INFO: 3.40282e+38
+- 18:34:23.870 INFO: Next Possible Moves # 9
+- 18:34:23.870 INFO: Next Player: 
+- 18:34:23.870 INFO: ########## START TURN ##########
+- 18:34:23.870 INFO: lNextStates Size 9
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 4-8
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   W   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 4-0
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.870 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 26-22
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   w   .   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 26-23
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   .   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 27-23
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   w   | 23     Red pieces:   8
+ 24 |   .   .   w   . | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 28-24
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   w   .   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 29-25
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | W   .   .   r   | 7
+  8 |   .   r   r   r | 11     Last move: 30-25
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   w   w   w | 27     White pieces: 7
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: ##########  END TURN  ##########
+- 18:34:23.871 INFO: Calling first
+- 18:34:23.871 INFO: Prev move (string): 6-9
+- 18:34:23.871 INFO: Prev move (message): 0_6_9
+- 18:34:23.871 INFO: Suggested move (string): 4-8
+- 18:34:23.871 INFO: Suggested move (message): 0_4_8
+- 18:34:23.871 INFO: 
+-------------------Result----------------------
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 4-8
+ 12 | .   r   r   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 44
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.871 INFO: play
+- 18:34:23.871 INFO: 
+- 18:34:23.871 INFO: 1.17549e-38
+- 18:34:23.871 INFO: 3.40282e+38
+- 18:34:23.871 INFO: Next Possible Moves # 7
+- 18:34:23.871 INFO: Next Player: 
+- 18:34:23.871 INFO: ########## START TURN ##########
+- 18:34:23.871 INFO: lNextStates Size 7
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   .   r | 11     Last move: 10-15
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   . | 11     Last move: 11-15
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 13-16
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   r   .   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 13-17
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 14-17
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 14-18
+ 12 | .   r   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   r   r | 11     Last move: 19-23
+ 12 | .   r   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 43
+ 20 | .   .   .   r   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.871 INFO: ##########  END TURN  ##########
+- 18:34:23.871 INFO: Calling first
+- 18:34:23.872 INFO: Prev move (string): 4-8
+- 18:34:23.872 INFO: Prev move (message): 0_4_8
+- 18:34:23.872 INFO: Suggested move (string): 10-15
+- 18:34:23.872 INFO: Suggested move (message): 0_10_15
+- 18:34:23.872 INFO: 
+-------------------Result----------------------
+- 18:34:23.872 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   W   r   .   r | 11     Last move: 10-15
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 43
+ 20 | .   .   .   .   | 23     Red pieces:   8
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.872 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.872 INFO: play
+- 18:34:23.872 INFO: 
+- 18:34:23.872 INFO: 1.17549e-38
+- 18:34:23.872 INFO: 3.40282e+38
+- 18:34:23.872 INFO: Next Possible Moves # 1
+- 18:34:23.872 INFO: Next Player: 
+- 18:34:23.872 INFO: ########## START TURN ##########
+- 18:34:23.872 INFO: lNextStates Size 1
+- 18:34:23.872 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   W   r | 11     Last move: 8x17x10
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.872 INFO: ##########  END TURN  ##########
+- 18:34:23.872 INFO: Calling first
+- 18:34:23.872 INFO: Prev move (string): 10-15
+- 18:34:23.872 INFO: Prev move (message): 0_10_15
+- 18:34:23.872 INFO: Suggested move (string): 8x17x10
+- 18:34:23.872 INFO: Suggested move (message): 2_8_17_10
+- 18:34:23.872 INFO: 
+-------------------Result----------------------
+- 18:34:23.872 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   W   r | 11     Last move: 8x17x10
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 7
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.872 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.872 INFO: play
+- 18:34:23.872 INFO: 
+- 18:34:23.872 INFO: 1.17549e-38
+- 18:34:23.872 INFO: 3.40282e+38
+- 18:34:23.872 INFO: Next Possible Moves # 1
+- 18:34:23.872 INFO: Next Player: 
+- 18:34:23.872 INFO: ########## START TURN ##########
+- 18:34:23.873 INFO: lNextStates Size 1
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 7x14
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: ##########  END TURN  ##########
+- 18:34:23.873 INFO: Calling first
+- 18:34:23.873 INFO: Prev move (string): 8x17x10
+- 18:34:23.873 INFO: Prev move (message): 2_8_17_10
+- 18:34:23.873 INFO: Suggested move (string): 7x14
+- 18:34:23.873 INFO: Suggested move (message): 1_7_14
+- 18:34:23.873 INFO: 
+-------------------Result----------------------
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 7x14
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.873 INFO: play
+- 18:34:23.873 INFO: 
+- 18:34:23.873 INFO: 1.17549e-38
+- 18:34:23.873 INFO: 3.40282e+38
+- 18:34:23.873 INFO: Next Possible Moves # 7
+- 18:34:23.873 INFO: Next Player: 
+- 18:34:23.873 INFO: ########## START TURN ##########
+- 18:34:23.873 INFO: lNextStates Size 7
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 26-22
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 26-23
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 27-23
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   6
+ 24 |   .   .   w   . | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 28-24
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   w   .   w   w | 27     White pieces: 6
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 29-24
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   w   .   w   w | 27     White pieces: 6
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 29-25
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   w   w   w | 27     White pieces: 6
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 30-25
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   w   w   w | 27     White pieces: 6
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: ##########  END TURN  ##########
+- 18:34:23.873 INFO: Calling first
+- 18:34:23.873 INFO: Prev move (string): 7x14
+- 18:34:23.873 INFO: Prev move (message): 1_7_14
+- 18:34:23.873 INFO: Suggested move (string): 26-22
+- 18:34:23.873 INFO: Suggested move (message): 0_26_22
+- 18:34:23.873 INFO: 
+-------------------Result----------------------
+- 18:34:23.873 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 26-22
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.873 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.874 INFO: play
+- 18:34:23.874 INFO: 
+- 18:34:23.874 INFO: 1.17549e-38
+- 18:34:23.874 INFO: 3.40282e+38
+- 18:34:23.874 INFO: Next Possible Moves # 6
+- 18:34:23.874 INFO: Next Player: 
+- 18:34:23.874 INFO: ########## START TURN ##########
+- 18:34:23.874 INFO: lNextStates Size 6
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 3-7
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   .   .   r | 11     Last move: 9-13
+ 12 | .   r   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 14-17
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   r   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 14-18
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 15-18
+ 12 | .   .   r   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   r | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   .   r | 11     Last move: 19-23
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   .   w   r   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: ##########  END TURN  ##########
+- 18:34:23.874 INFO: Calling first
+- 18:34:23.874 INFO: Prev move (string): 26-22
+- 18:34:23.874 INFO: Prev move (message): 0_26_22
+- 18:34:23.874 INFO: Suggested move (string): 3-7
+- 18:34:23.874 INFO: Suggested move (message): 0_3_7
+- 18:34:23.874 INFO: 
+-------------------Result----------------------
+- 18:34:23.874 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 3-7
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 48
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.874 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.874 INFO: play
+- 18:34:23.874 INFO: 
+- 18:34:23.875 INFO: 1.17549e-38
+- 18:34:23.875 INFO: 3.40282e+38
+- 18:34:23.875 INFO: Next Possible Moves # 9
+- 18:34:23.875 INFO: Next Player: 
+- 18:34:23.875 INFO: ########## START TURN ##########
+- 18:34:23.875 INFO: lNextStates Size 9
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 22-17
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   w   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 22-18
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 27-23
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   w   | 23     Red pieces:   6
+ 24 |   .   .   .   . | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 28-24
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   w   .   .   w | 27     White pieces: 6
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 29-24
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   w   .   .   w | 27     White pieces: 6
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 29-25
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   w   .   w | 27     White pieces: 6
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30-25
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   w   .   w | 27     White pieces: 6
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30-26
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 6
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 31-26
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 47
+ 20 | .   .   w   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 6
+ 28 | w   w   w   .   | 31
+     -----------------
+
+- 18:34:23.875 INFO: ##########  END TURN  ##########
+- 18:34:23.875 INFO: Calling first
+- 18:34:23.875 INFO: Prev move (string): 3-7
+- 18:34:23.875 INFO: Prev move (message): 0_3_7
+- 18:34:23.875 INFO: Suggested move (string): 22-17
+- 18:34:23.875 INFO: Suggested move (message): 0_22_17
+- 18:34:23.875 INFO: 
+-------------------Result----------------------
+- 18:34:23.875 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 22-17
+ 12 | .   .   r   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   w   .   r | 19     Moves until draw: 47
+ 20 | .   .   .   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 6
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.875 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.875 INFO: play
+- 18:34:23.875 INFO: 
+- 18:34:23.875 INFO: 1.17549e-38
+- 18:34:23.875 INFO: 3.40282e+38
+- 18:34:23.875 INFO: Next Possible Moves # 1
+- 18:34:23.875 INFO: Next Player: 
+- 18:34:23.875 INFO: ########## START TURN ##########
+- 18:34:23.876 INFO: lNextStates Size 1
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 14x21
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 5
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: ##########  END TURN  ##########
+- 18:34:23.876 INFO: Calling first
+- 18:34:23.876 INFO: Prev move (string): 22-17
+- 18:34:23.876 INFO: Prev move (message): 0_22_17
+- 18:34:23.876 INFO: Suggested move (string): 14x21
+- 18:34:23.876 INFO: Suggested move (message): 1_14_21
+- 18:34:23.876 INFO: 
+-------------------Result----------------------
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 14x21
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   .   w | 27     White pieces: 5
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.876 INFO: play
+- 18:34:23.876 INFO: 
+- 18:34:23.876 INFO: 1.17549e-38
+- 18:34:23.876 INFO: 3.40282e+38
+- 18:34:23.876 INFO: Next Possible Moves # 7
+- 18:34:23.876 INFO: Next Player: 
+- 18:34:23.876 INFO: ########## START TURN ##########
+- 18:34:23.876 INFO: lNextStates Size 7
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 27-23
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   6
+ 24 |   .   .   .   . | 27     White pieces: 5
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 28-24
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   w   .   .   w | 27     White pieces: 5
+ 28 | .   w   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 29-24
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   w   .   .   w | 27     White pieces: 5
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 29-25
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   w   .   w | 27     White pieces: 5
+ 28 | w   .   w   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30-25
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   w   .   w | 27     White pieces: 5
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30-26
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 5
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 31-26
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   w   w | 27     White pieces: 5
+ 28 | w   w   w   .   | 31
+     -----------------
+
+- 18:34:23.876 INFO: ##########  END TURN  ##########
+- 18:34:23.876 INFO: Calling first
+- 18:34:23.876 INFO: Prev move (string): 14x21
+- 18:34:23.876 INFO: Prev move (message): 1_14_21
+- 18:34:23.876 INFO: Suggested move (string): 27-23
+- 18:34:23.876 INFO: Suggested move (message): 0_27_23
+- 18:34:23.876 INFO: 
+-------------------Result----------------------
+- 18:34:23.876 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 27-23
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   6
+ 24 |   .   .   .   . | 27     White pieces: 5
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.877 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.877 INFO: play
+- 18:34:23.877 INFO: 
+- 18:34:23.877 INFO: 1.17549e-38
+- 18:34:23.877 INFO: 3.40282e+38
+- 18:34:23.877 INFO: Next Possible Moves # 1
+- 18:34:23.877 INFO: Next Player: 
+- 18:34:23.877 INFO: ########## START TURN ##########
+- 18:34:23.877 INFO: lNextStates Size 1
+- 18:34:23.877 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 19x26
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   r   . | 27     White pieces: 4
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.877 INFO: ##########  END TURN  ##########
+- 18:34:23.877 INFO: Calling first
+- 18:34:23.877 INFO: Prev move (string): 27-23
+- 18:34:23.877 INFO: Prev move (message): 0_27_23
+- 18:34:23.877 INFO: Suggested move (string): 19x26
+- 18:34:23.877 INFO: Suggested move (message): 1_19_26
+- 18:34:23.877 INFO: 
+-------------------Result----------------------
+- 18:34:23.877 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 19x26
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   .   .   | 23     Red pieces:   6
+ 24 |   .   .   r   . | 27     White pieces: 4
+ 28 | w   w   w   w   | 31
+     -----------------
+
+- 18:34:23.877 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.877 INFO: play
+- 18:34:23.877 INFO: 
+- 18:34:23.877 INFO: 1.17549e-38
+- 18:34:23.877 INFO: 3.40282e+38
+- 18:34:23.877 INFO: Next Possible Moves # 2
+- 18:34:23.877 INFO: Next Player: 
+- 18:34:23.877 INFO: ########## START TURN ##########
+- 18:34:23.877 INFO: lNextStates Size 2
+- 18:34:23.877 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30x23
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.877 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 31x22
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   w   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   w   .   | 31
+     -----------------
+
+- 18:34:23.877 INFO: ##########  END TURN  ##########
+- 18:34:23.877 INFO: Calling first
+- 18:34:23.877 INFO: Prev move (string): 19x26
+- 18:34:23.878 INFO: Prev move (message): 1_19_26
+- 18:34:23.878 INFO: Suggested move (string): 30x23
+- 18:34:23.878 INFO: Suggested move (message): 1_30_23
+- 18:34:23.878 INFO: 
+-------------------Result----------------------
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 30x23
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.878 INFO: play
+- 18:34:23.878 INFO: 
+- 18:34:23.878 INFO: 1.17549e-38
+- 18:34:23.878 INFO: 3.40282e+38
+- 18:34:23.878 INFO: Next Possible Moves # 7
+- 18:34:23.878 INFO: Next Player: 
+- 18:34:23.878 INFO: ########## START TURN ##########
+- 18:34:23.878 INFO: lNextStates Size 7
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 7-10
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   .   .   r | 11     Last move: 9-13
+ 12 | .   r   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   .   .   r | 11     Last move: 9-14
+ 12 | .   .   r   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 15-18
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   r   . | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 15-19
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   r | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 21-24
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   5
+ 24 |   r   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   r   | 7
+  8 |   .   r   .   r | 11     Last move: 21-25
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   .   w   | 23     Red pieces:   5
+ 24 |   .   r   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: ##########  END TURN  ##########
+- 18:34:23.878 INFO: Calling first
+- 18:34:23.878 INFO: Prev move (string): 30x23
+- 18:34:23.878 INFO: Prev move (message): 1_30_23
+- 18:34:23.878 INFO: Suggested move (string): 7-10
+- 18:34:23.878 INFO: Suggested move (message): 0_7_10
+- 18:34:23.878 INFO: 
+-------------------Result----------------------
+- 18:34:23.878 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 7-10
+ 12 | .   .   .   r   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.878 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.879 INFO: play
+- 18:34:23.879 INFO: 
+- 18:34:23.879 INFO: 1.17549e-38
+- 18:34:23.879 INFO: 3.40282e+38
+- 18:34:23.879 INFO: Next Possible Moves # 7
+- 18:34:23.879 INFO: Next Player: 
+- 18:34:23.879 INFO: ########## START TURN ##########
+- 18:34:23.879 INFO: lNextStates Size 7
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 23-18
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   . | 19     Moves until draw: 48
+ 20 | .   r   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 23-19
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   w | 19     Moves until draw: 48
+ 20 | .   r   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 28-24
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 4
+ 28 | .   w   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 4
+ 28 | w   .   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-25
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   w   .   . | 27     White pieces: 4
+ 28 | w   .   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-26
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   w   . | 27     White pieces: 4
+ 28 | w   w   .   .   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-27
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 48
+ 20 | .   r   .   w   | 23     Red pieces:   5
+ 24 |   .   .   .   w | 27     White pieces: 4
+ 28 | w   w   .   .   | 31
+     -----------------
+
+- 18:34:23.879 INFO: ##########  END TURN  ##########
+- 18:34:23.879 INFO: Calling first
+- 18:34:23.879 INFO: Prev move (string): 7-10
+- 18:34:23.879 INFO: Prev move (message): 0_7_10
+- 18:34:23.879 INFO: Suggested move (string): 23-18
+- 18:34:23.879 INFO: Suggested move (message): 0_23_18
+- 18:34:23.879 INFO: 
+-------------------Result----------------------
+- 18:34:23.879 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 23-18
+ 12 | .   .   .   r   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   w   . | 19     Moves until draw: 48
+ 20 | .   r   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 4
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.879 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.879 INFO: play
+- 18:34:23.879 INFO: 
+- 18:34:23.879 INFO: 1.17549e-38
+- 18:34:23.879 INFO: 3.40282e+38
+- 18:34:23.879 INFO: Next Possible Moves # 1
+- 18:34:23.879 INFO: Next Player: 
+- 18:34:23.879 INFO: ########## START TURN ##########
+- 18:34:23.879 INFO: lNextStates Size 1
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 15x22
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 3
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: ##########  END TURN  ##########
+- 18:34:23.880 INFO: Calling first
+- 18:34:23.880 INFO: Prev move (string): 23-18
+- 18:34:23.880 INFO: Prev move (message): 0_23_18
+- 18:34:23.880 INFO: Suggested move (string): 15x22
+- 18:34:23.880 INFO: Suggested move (message): 1_15_22
+- 18:34:23.880 INFO: 
+-------------------Result----------------------
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 15x22
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 3
+ 28 | w   w   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.880 INFO: play
+- 18:34:23.880 INFO: 
+- 18:34:23.880 INFO: 1.17549e-38
+- 18:34:23.880 INFO: 3.40282e+38
+- 18:34:23.880 INFO: Next Possible Moves # 5
+- 18:34:23.880 INFO: Next Player: 
+- 18:34:23.880 INFO: ########## START TURN ##########
+- 18:34:23.880 INFO: lNextStates Size 5
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 28-24
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 3
+ 28 | .   w   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 3
+ 28 | w   .   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-25
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   .   w   .   . | 27     White pieces: 3
+ 28 | w   .   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-26
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   .   .   w   . | 27     White pieces: 3
+ 28 | w   w   .   .   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-27
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   w | 27     White pieces: 3
+ 28 | w   w   .   .   | 31
+     -----------------
+
+- 18:34:23.880 INFO: ##########  END TURN  ##########
+- 18:34:23.880 INFO: Calling first
+- 18:34:23.880 INFO: Prev move (string): 15x22
+- 18:34:23.880 INFO: Prev move (message): 1_15_22
+- 18:34:23.880 INFO: Suggested move (string): 28-24
+- 18:34:23.880 INFO: Suggested move (message): 0_28_24
+- 18:34:23.880 INFO: 
+-------------------Result----------------------
+- 18:34:23.880 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 28-24
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   r   r   .   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 3
+ 28 | .   w   .   w   | 31
+     -----------------
+
+- 18:34:23.880 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.881 INFO: play
+- 18:34:23.881 INFO: 
+- 18:34:23.881 INFO: 1.17549e-38
+- 18:34:23.881 INFO: 3.40282e+38
+- 18:34:23.881 INFO: Next Possible Moves # 1
+- 18:34:23.881 INFO: Next Player: 
+- 18:34:23.881 INFO: ########## START TURN ##########
+- 18:34:23.881 INFO: lNextStates Size 1
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 21x28
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 2
+ 28 | R   w   .   w   | 31
+     -----------------
+
+- 18:34:23.881 INFO: ##########  END TURN  ##########
+- 18:34:23.881 INFO: Calling first
+- 18:34:23.881 INFO: Prev move (string): 28-24
+- 18:34:23.881 INFO: Prev move (message): 0_28_24
+- 18:34:23.881 INFO: Suggested move (string): 21x28
+- 18:34:23.881 INFO: Suggested move (message): 1_21_28
+- 18:34:23.881 INFO: 
+-------------------Result----------------------
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 21x28
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 2
+ 28 | R   w   .   w   | 31
+     -----------------
+
+- 18:34:23.881 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.881 INFO: play
+- 18:34:23.881 INFO: 
+- 18:34:23.881 INFO: 1.17549e-38
+- 18:34:23.881 INFO: 3.40282e+38
+- 18:34:23.881 INFO: Next Possible Moves # 4
+- 18:34:23.881 INFO: Next Player: 
+- 18:34:23.881 INFO: ########## START TURN ##########
+- 18:34:23.881 INFO: lNextStates Size 4
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 2
+ 28 | R   .   .   w   | 31
+     -----------------
+
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-25
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   .   w   .   . | 27     White pieces: 2
+ 28 | R   .   .   w   | 31
+     -----------------
+
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-26
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   .   .   w   . | 27     White pieces: 2
+ 28 | R   w   .   .   | 31
+     -----------------
+
+- 18:34:23.881 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-27
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   w | 27     White pieces: 2
+ 28 | R   w   .   .   | 31
+     -----------------
+
+- 18:34:23.881 INFO: ##########  END TURN  ##########
+- 18:34:23.881 INFO: Calling first
+- 18:34:23.881 INFO: Prev move (string): 21x28
+- 18:34:23.881 INFO: Prev move (message): 1_21_28
+- 18:34:23.881 INFO: Suggested move (string): 29-24
+- 18:34:23.882 INFO: Suggested move (message): 0_29_24
+- 18:34:23.882 INFO: 
+-------------------Result----------------------
+- 18:34:23.882 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 29-24
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   .   r   .   | 23     Red pieces:   5
+ 24 |   w   .   .   . | 27     White pieces: 2
+ 28 | R   .   .   w   | 31
+     -----------------
+
+- 18:34:23.882 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.882 INFO: play
+- 18:34:23.882 INFO: 
+- 18:34:23.882 INFO: 1.17549e-38
+- 18:34:23.882 INFO: 3.40282e+38
+- 18:34:23.882 INFO: Next Possible Moves # 1
+- 18:34:23.882 INFO: Next Player: 
+- 18:34:23.882 INFO: ########## START TURN ##########
+- 18:34:23.882 INFO: lNextStates Size 1
+- 18:34:23.882 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 28x21
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 1
+ 28 | .   .   .   w   | 31
+     -----------------
+
+- 18:34:23.882 INFO: ##########  END TURN  ##########
+- 18:34:23.882 INFO: Calling first
+- 18:34:23.882 INFO: Prev move (string): 29-24
+- 18:34:23.882 INFO: Prev move (message): 0_29_24
+- 18:34:23.882 INFO: Suggested move (string): 28x21
+- 18:34:23.882 INFO: Suggested move (message): 1_28_21
+- 18:34:23.882 INFO: 
+-------------------Result----------------------
+- 18:34:23.882 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 28x21
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 1
+ 28 | .   .   .   w   | 31
+     -----------------
+
+- 18:34:23.882 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.882 INFO: play
+- 18:34:23.882 INFO: 
+- 18:34:23.882 INFO: 1.17549e-38
+- 18:34:23.882 INFO: 3.40282e+38
+- 18:34:23.882 INFO: Next Possible Moves # 2
+- 18:34:23.882 INFO: Next Player: 
+- 18:34:23.883 INFO: ########## START TURN ##########
+- 18:34:23.883 INFO: lNextStates Size 2
+- 18:34:23.883 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-26
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   R   r   .   | 23     Red pieces:   5
+ 24 |   .   .   w   . | 27     White pieces: 1
+ 28 | .   .   .   .   | 31
+     -----------------
+
+- 18:34:23.883 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-27
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   R   r   .   | 23     Red pieces:   5
+ 24 |   .   .   .   w | 27     White pieces: 1
+ 28 | .   .   .   .   | 31
+     -----------------
+
+- 18:34:23.883 INFO: ##########  END TURN  ##########
+- 18:34:23.883 INFO: Calling first
+- 18:34:23.883 INFO: Prev move (string): 28x21
+- 18:34:23.883 INFO: Prev move (message): 1_28_21
+- 18:34:23.883 INFO: Suggested move (string): 31-26
+- 18:34:23.883 INFO: Suggested move (message): 0_31_26
+- 18:34:23.883 INFO: 
+-------------------Result----------------------
+- 18:34:23.883 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 31-26
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 49
+ 20 | .   R   r   .   | 23     Red pieces:   5
+ 24 |   .   .   w   . | 27     White pieces: 1
+ 28 | .   .   .   .   | 31
+     -----------------
+
+- 18:34:23.883 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.883 INFO: play
+- 18:34:23.883 INFO: 
+- 18:34:23.883 INFO: 1.17549e-38
+- 18:34:23.883 INFO: 3.40282e+38
+- 18:34:23.883 INFO: Next Possible Moves # 1
+- 18:34:23.883 INFO: Next Player: 
+- 18:34:23.883 INFO: ########## START TURN ##########
+- 18:34:23.883 INFO: lNextStates Size 1
+- 18:34:23.883 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 22x31
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 0
+ 28 | .   .   .   R   | 31
+     -----------------
+
+- 18:34:23.883 INFO: ##########  END TURN  ##########
+- 18:34:23.883 INFO: Calling first
+- 18:34:23.883 INFO: Prev move (string): 31-26
+- 18:34:23.883 INFO: Prev move (message): 0_31_26
+- 18:34:23.883 INFO: Suggested move (string): 22x31
+- 18:34:23.883 INFO: Suggested move (message): 1_22_31
+- 18:34:23.883 INFO: 
+-------------------Result----------------------
+- 18:34:23.883 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: 22x31
+ 12 | .   .   .   .   | 15     Next player: w  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 0
+ 28 | .   .   .   R   | 31
+     -----------------
+
+- 18:34:23.883 INFO: 
+_______________________________________________________________________________________
+- 18:34:23.884 INFO: play
+- 18:34:23.884 INFO: 
+- 18:34:23.884 INFO: 1.17549e-38
+- 18:34:23.884 INFO: 3.40282e+38
+- 18:34:23.884 INFO: Next Possible Moves # 1
+- 18:34:23.884 INFO: Next Player: 
+- 18:34:23.884 INFO: ########## START TURN ##########
+- 18:34:23.884 INFO: lNextStates Size 1
+- 18:34:23.884 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: RW
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 0
+ 28 | .   .   .   R   | 31
+     -----------------
+
+- 18:34:23.884 INFO: ##########  END TURN  ##########
+- 18:34:23.884 INFO: Calling first
+- 18:34:23.884 INFO: Prev move (string): 22x31
+- 18:34:23.884 INFO: Prev move (message): 1_22_31
+- 18:34:23.884 INFO: Suggested move (string): RW
+- 18:34:23.884 INFO: Suggested move (message): -2
+- 18:34:23.884 INFO: 
+-------------------Result----------------------
+- 18:34:23.884 INFO: 
+     -----------------
+  0 |   .   .   .   . | 3
+  4 | .   .   .   .   | 7
+  8 |   .   r   r   r | 11     Last move: RW
+ 12 | .   .   .   .   | 15     Next player: r  (Opponents turn)
+ 16 |   .   .   .   . | 19     Moves until draw: 50
+ 20 | .   R   .   .   | 23     Red pieces:   5
+ 24 |   .   .   .   . | 27     White pieces: 0
+ 28 | .   .   .   R   | 31
+     -----------------
+
+- 18:34:23.884 INFO: 
+_______________________________________________________________________________________

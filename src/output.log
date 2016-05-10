@@ -1,0 +1,1410 @@
+- 15:54:13.916 INFO: white S: -7
+- 15:54:13.917 INFO: red S: 8
+- 15:54:13.917 INFO: total S: 1
+- 15:54:13.917 INFO: total+jump S: 1
+- 15:54:13.917 INFO: available moves S: 9
+- 15:54:13.917 INFO: total+jump+available S: 19
+- 15:54:13.917 INFO: white S: -5
+- 15:54:13.917 INFO: red S: 9
+- 15:54:13.917 INFO: total S: 4
+- 15:54:13.917 INFO: total+jump S: 8
+- 15:54:13.917 INFO: available moves S: 2
+- 15:54:13.917 INFO: total+jump+available S: 12
+- 15:54:13.917 INFO: white S: -5
+- 15:54:13.917 INFO: red S: 9
+- 15:54:13.917 INFO: total S: 4
+- 15:54:13.917 INFO: total+jump S: 8
+- 15:54:13.917 INFO: available moves S: 2
+- 15:54:13.917 INFO: total+jump+available S: 12
+- 15:54:13.918 INFO: white S: -4
+- 15:54:13.918 INFO: red S: 8
+- 15:54:13.918 INFO: total S: 4
+- 15:54:13.918 INFO: total+jump S: 8
+- 15:54:13.918 INFO: available moves S: 2
+- 15:54:13.918 INFO: total+jump+available S: 12
+- 15:54:13.918 INFO: white S: -4
+- 15:54:13.918 INFO: red S: 8
+- 15:54:13.918 INFO: total S: 4
+- 15:54:13.918 INFO: total+jump S: 8
+- 15:54:13.918 INFO: available moves S: 2
+- 15:54:13.918 INFO: total+jump+available S: 12
+- 15:54:13.919 INFO: white S: -5
+- 15:54:13.919 INFO: red S: 8
+- 15:54:13.919 INFO: total S: 3
+- 15:54:13.919 INFO: total+jump S: 3
+- 15:54:13.919 INFO: available moves S: 9
+- 15:54:13.919 INFO: total+jump+available S: 21
+- 15:54:13.919 INFO: white S: -5
+- 15:54:13.919 INFO: red S: 8
+- 15:54:13.919 INFO: total S: 3
+- 15:54:13.919 INFO: total+jump S: 3
+- 15:54:13.919 INFO: available moves S: 9
+- 15:54:13.919 INFO: total+jump+available S: 21
+- 15:54:13.923 INFO: white S: -5
+- 15:54:13.923 INFO: red S: 8
+- 15:54:13.923 INFO: total S: 3
+- 15:54:13.923 INFO: total+jump S: 3
+- 15:54:13.923 INFO: available moves S: 9
+- 15:54:13.923 INFO: total+jump+available S: 21
+- 15:54:13.924 INFO: white S: -5
+- 15:54:13.924 INFO: red S: 8
+- 15:54:13.924 INFO: total S: 3
+- 15:54:13.924 INFO: total+jump S: 3
+- 15:54:13.924 INFO: available moves S: 9
+- 15:54:13.924 INFO: total+jump+available S: 21
+- 15:54:13.924 INFO: white S: -6
+- 15:54:13.924 INFO: red S: 10
+- 15:54:13.924 INFO: total S: 4
+- 15:54:13.924 INFO: total+jump S: 8
+- 15:54:13.924 INFO: available moves S: 1
+- 15:54:13.924 INFO: total+jump+available S: 10
+- 15:54:13.925 INFO: white S: -6
+- 15:54:13.925 INFO: red S: 10
+- 15:54:13.925 INFO: total S: 4
+- 15:54:13.925 INFO: total+jump S: 4
+- 15:54:13.925 INFO: available moves S: 1
+- 15:54:13.925 INFO: total+jump+available S: 6
+- 15:54:13.925 INFO: white S: -4
+- 15:54:13.925 INFO: red S: 6
+- 15:54:13.925 INFO: total S: 2
+- 15:54:13.925 INFO: total+jump S: 6
+- 15:54:13.925 INFO: available moves S: 5
+- 15:54:13.925 INFO: total+jump+available S: 16
+- 15:54:13.926 INFO: white S: -5
+- 15:54:13.926 INFO: red S: 9
+- 15:54:13.926 INFO: total S: 4
+- 15:54:13.926 INFO: total+jump S: 8
+- 15:54:13.926 INFO: available moves S: 2
+- 15:54:13.926 INFO: total+jump+available S: 12
+- 15:54:13.926 INFO: white S: -6
+- 15:54:13.926 INFO: red S: 8
+- 15:54:13.926 INFO: total S: 2
+- 15:54:13.926 INFO: total+jump S: 2
+- 15:54:13.926 INFO: available moves S: 8
+- 15:54:13.926 INFO: total+jump+available S: 18
+- 15:54:13.926 INFO: white S: -6
+- 15:54:13.927 INFO: red S: 8
+- 15:54:13.927 INFO: total S: 2
+- 15:54:13.927 INFO: total+jump S: 2
+- 15:54:13.927 INFO: available moves S: 6
+- 15:54:13.927 INFO: total+jump+available S: 14
+- 15:54:13.931 INFO: white S: -5
+- 15:54:13.931 INFO: red S: 9
+- 15:54:13.931 INFO: total S: 4
+- 15:54:13.931 INFO: total+jump S: 4
+- 15:54:13.931 INFO: available moves S: 9
+- 15:54:13.931 INFO: total+jump+available S: 22
+- 15:54:13.933 INFO: white S: -10
+- 15:54:13.933 INFO: red S: 5
+- 15:54:13.933 INFO: total S: -5
+- 15:54:13.933 INFO: total+jump S: -5
+- 15:54:13.933 INFO: available moves S: 10
+- 15:54:13.933 INFO: total+jump+available S: 15
+- 15:54:13.933 INFO: white S: -3
+- 15:54:13.933 INFO: red S: 9
+- 15:54:13.933 INFO: total S: 6
+- 15:54:13.933 INFO: total+jump S: 10
+- 15:54:13.933 INFO: available moves S: 5
+- 15:54:13.933 INFO: total+jump+available S: 20
+- 15:54:13.934 INFO: white S: -8
+- 15:54:13.934 INFO: red S: 7
+- 15:54:13.934 INFO: total S: -1
+- 15:54:13.934 INFO: total+jump S: -1
+- 15:54:13.934 INFO: available moves S: 7
+- 15:54:13.934 INFO: total+jump+available S: 13
+- 15:54:13.934 INFO: white S: -8
+- 15:54:13.934 INFO: red S: 9
+- 15:54:13.934 INFO: total S: 1
+- 15:54:13.935 INFO: total+jump S: 1
+- 15:54:13.935 INFO: available moves S: 9
+- 15:54:13.935 INFO: total+jump+available S: 19
+- 15:54:13.935 INFO: white S: -8
+- 15:54:13.935 INFO: red S: 8
+- 15:54:13.935 INFO: total S: 0
+- 15:54:13.935 INFO: total+jump S: 0
+- 15:54:13.935 INFO: available moves S: 9
+- 15:54:13.935 INFO: total+jump+available S: 18
+- 15:54:13.936 INFO: white S: -5
+- 15:54:13.936 INFO: red S: 9
+- 15:54:13.936 INFO: total S: 4
+- 15:54:13.936 INFO: total+jump S: 4
+- 15:54:13.936 INFO: available moves S: 7
+- 15:54:13.936 INFO: total+jump+available S: 18
+- 15:54:13.937 INFO: white S: -4
+- 15:54:13.937 INFO: red S: 8
+- 15:54:13.937 INFO: total S: 4
+- 15:54:13.937 INFO: total+jump S: 4
+- 15:54:13.937 INFO: available moves S: 8
+- 15:54:13.937 INFO: total+jump+available S: 20
+- 15:54:13.937 INFO: white S: -8
+- 15:54:13.937 INFO: red S: 8
+- 15:54:13.937 INFO: total S: 0
+- 15:54:13.937 INFO: total+jump S: 0
+- 15:54:13.937 INFO: available moves S: 9
+- 15:54:13.937 INFO: total+jump+available S: 18
+- 15:54:13.938 INFO: white S: -5
+- 15:54:13.938 INFO: red S: 7
+- 15:54:13.938 INFO: total S: 2
+- 15:54:13.938 INFO: total+jump S: 2
+- 15:54:13.938 INFO: available moves S: 8
+- 15:54:13.938 INFO: total+jump+available S: 18
+- 15:54:13.944 INFO: white S: -11
+- 15:54:13.944 INFO: red S: 6
+- 15:54:13.944 INFO: total S: -5
+- 15:54:13.944 INFO: total+jump S: -5
+- 15:54:13.944 INFO: available moves S: 1
+- 15:54:13.944 INFO: total+jump+available S: -3
+- 15:54:13.944 INFO: white S: -3
+- 15:54:13.944 INFO: red S: 6
+- 15:54:13.944 INFO: total S: 3
+- 15:54:13.944 INFO: total+jump S: 3
+- 15:54:13.944 INFO: available moves S: 5
+- 15:54:13.944 INFO: total+jump+available S: 13
+- 15:54:13.945 INFO: white S: -6
+- 15:54:13.945 INFO: red S: 6
+- 15:54:13.945 INFO: total S: 0
+- 15:54:13.945 INFO: total+jump S: 0
+- 15:54:13.945 INFO: available moves S: 8
+- 15:54:13.945 INFO: total+jump+available S: 16
+- 15:54:13.945 INFO: white S: -6
+- 15:54:13.945 INFO: red S: 7
+- 15:54:13.945 INFO: total S: 1
+- 15:54:13.945 INFO: total+jump S: 1
+- 15:54:13.945 INFO: available moves S: 7
+- 15:54:13.945 INFO: total+jump+available S: 15
+- 15:54:13.946 INFO: white S: -7
+- 15:54:13.946 INFO: red S: 5
+- 15:54:13.946 INFO: total S: -2
+- 15:54:13.946 INFO: total+jump S: -2
+- 15:54:13.946 INFO: available moves S: 7
+- 15:54:13.946 INFO: total+jump+available S: 12
+- 15:54:13.946 INFO: white S: -3
+- 15:54:13.946 INFO: red S: 9
+- 15:54:13.946 INFO: total S: 6
+- 15:54:13.946 INFO: total+jump S: 6
+- 15:54:13.946 INFO: available moves S: 4
+- 15:54:13.946 INFO: total+jump+available S: 14
+- 15:54:13.947 INFO: white S: -7
+- 15:54:13.947 INFO: red S: 5
+- 15:54:13.947 INFO: total S: -2
+- 15:54:13.947 INFO: total+jump S: 2
+- 15:54:13.947 INFO: available moves S: 1
+- 15:54:13.947 INFO: total+jump+available S: 4
+- 15:54:13.948 INFO: white S: -7
+- 15:54:13.948 INFO: red S: 6
+- 15:54:13.948 INFO: total S: -1
+- 15:54:13.948 INFO: total+jump S: -1
+- 15:54:13.948 INFO: available moves S: 9
+- 15:54:13.948 INFO: total+jump+available S: 17
+- 15:54:13.949 INFO: white S: -8
+- 15:54:13.949 INFO: red S: 3
+- 15:54:13.949 INFO: total S: -5
+- 15:54:13.949 INFO: total+jump S: -5
+- 15:54:13.949 INFO: available moves S: 1
+- 15:54:13.949 INFO: total+jump+available S: -3
+- 15:54:13.950 INFO: white S: -8
+- 15:54:13.950 INFO: red S: 5
+- 15:54:13.950 INFO: total S: -3
+- 15:54:13.950 INFO: total+jump S: -3
+- 15:54:13.950 INFO: available moves S: 9
+- 15:54:13.950 INFO: total+jump+available S: 15
+- 15:54:13.950 INFO: white S: -12
+- 15:54:13.950 INFO: red S: 3
+- 15:54:13.950 INFO: total S: -9
+- 15:54:13.950 INFO: total+jump S: -9
+- 15:54:13.950 INFO: available moves S: 2
+- 15:54:13.950 INFO: total+jump+available S: -5
+- 15:54:13.951 INFO: white S: -8
+- 15:54:13.951 INFO: red S: 3
+- 15:54:13.951 INFO: total S: -5
+- 15:54:13.951 INFO: total+jump S: -5
+- 15:54:13.951 INFO: available moves S: 1
+- 15:54:13.951 INFO: total+jump+available S: -3
+- 15:54:13.952 INFO: white S: -8
+- 15:54:13.952 INFO: red S: 7
+- 15:54:13.952 INFO: total S: -1
+- 15:54:13.952 INFO: total+jump S: -1
+- 15:54:13.952 INFO: available moves S: 11
+- 15:54:13.952 INFO: total+jump+available S: 21
+- 15:54:13.953 INFO: white S: -5
+- 15:54:13.953 INFO: red S: 5
+- 15:54:13.953 INFO: total S: 0
+- 15:54:13.953 INFO: total+jump S: 0
+- 15:54:13.953 INFO: available moves S: 8
+- 15:54:13.953 INFO: total+jump+available S: 16
+- 15:54:13.959 INFO: white S: -8
+- 15:54:13.959 INFO: red S: 7
+- 15:54:13.959 INFO: total S: -1
+- 15:54:13.959 INFO: total+jump S: -1
+- 15:54:13.959 INFO: available moves S: 1
+- 15:54:13.959 INFO: total+jump+available S: 1
+- 15:54:13.960 INFO: white S: -7
+- 15:54:13.960 INFO: red S: 6
+- 15:54:13.960 INFO: total S: -1
+- 15:54:13.960 INFO: total+jump S: -1
+- 15:54:13.960 INFO: available moves S: 10
+- 15:54:13.960 INFO: total+jump+available S: 19
+- 15:54:13.961 INFO: white S: -7
+- 15:54:13.961 INFO: red S: 6
+- 15:54:13.961 INFO: total S: -1
+- 15:54:13.961 INFO: total+jump S: -1
+- 15:54:13.961 INFO: available moves S: 2
+- 15:54:13.961 INFO: total+jump+available S: 3
+- 15:54:13.969 INFO: white S: -7
+- 15:54:13.969 INFO: red S: 5
+- 15:54:13.969 INFO: total S: -2
+- 15:54:13.969 INFO: total+jump S: -2
+- 15:54:13.969 INFO: available moves S: 9
+- 15:54:13.969 INFO: total+jump+available S: 16
+- 15:54:13.971 INFO: white S: -7
+- 15:54:13.971 INFO: red S: 5
+- 15:54:13.971 INFO: total S: -2
+- 15:54:13.971 INFO: total+jump S: -2
+- 15:54:13.971 INFO: available moves S: 7
+- 15:54:13.971 INFO: total+jump+available S: 12
+- 15:54:13.981 INFO: white S: -6
+- 15:54:13.981 INFO: red S: 7
+- 15:54:13.981 INFO: total S: 1
+- 15:54:13.981 INFO: total+jump S: 1
+- 15:54:13.981 INFO: available moves S: 9
+- 15:54:13.981 INFO: total+jump+available S: 19
+- 15:54:13.982 INFO: white S: -6
+- 15:54:13.982 INFO: red S: 7
+- 15:54:13.982 INFO: total S: 1
+- 15:54:13.982 INFO: total+jump S: 1
+- 15:54:13.982 INFO: available moves S: 9
+- 15:54:13.982 INFO: total+jump+available S: 19
+- 15:54:13.986 INFO: white S: -3
+- 15:54:13.986 INFO: red S: 6
+- 15:54:13.986 INFO: total S: 3
+- 15:54:13.986 INFO: total+jump S: 7
+- 15:54:13.986 INFO: available moves S: 4
+- 15:54:13.986 INFO: total+jump+available S: 15
+- 15:54:13.987 INFO: white S: -4
+- 15:54:13.987 INFO: red S: 5
+- 15:54:13.987 INFO: total S: 1
+- 15:54:13.987 INFO: total+jump S: 5
+- 15:54:13.987 INFO: available moves S: 2
+- 15:54:13.987 INFO: total+jump+available S: 9
+- 15:54:13.988 INFO: white S: -5
+- 15:54:13.988 INFO: red S: 3
+- 15:54:13.988 INFO: total S: -2
+- 15:54:13.988 INFO: total+jump S: -2
+- 15:54:13.988 INFO: available moves S: 6
+- 15:54:13.988 INFO: total+jump+available S: 10
+- 15:54:13.988 INFO: white S: -5
+- 15:54:13.988 INFO: red S: 6
+- 15:54:13.988 INFO: total S: 1
+- 15:54:13.988 INFO: total+jump S: 1
+- 15:54:13.988 INFO: available moves S: 8
+- 15:54:13.988 INFO: total+jump+available S: 17
+- 15:54:13.989 INFO: white S: -4
+- 15:54:13.989 INFO: red S: 6
+- 15:54:13.989 INFO: total S: 2
+- 15:54:13.989 INFO: total+jump S: 6
+- 15:54:13.989 INFO: available moves S: 7
+- 15:54:13.989 INFO: total+jump+available S: 20
+- 15:54:13.997 INFO: white S: -6
+- 15:54:13.997 INFO: red S: 3
+- 15:54:13.997 INFO: total S: -3
+- 15:54:13.997 INFO: total+jump S: -3
+- 15:54:13.997 INFO: available moves S: 1
+- 15:54:13.997 INFO: total+jump+available S: -1
+- 15:54:13.998 INFO: white S: -6
+- 15:54:13.998 INFO: red S: 3
+- 15:54:13.998 INFO: total S: -3
+- 15:54:13.998 INFO: total+jump S: -3
+- 15:54:13.998 INFO: available moves S: 1
+- 15:54:13.998 INFO: total+jump+available S: -1
+- 15:54:13.998 INFO: white S: -6
+- 15:54:13.998 INFO: red S: 3
+- 15:54:13.998 INFO: total S: -3
+- 15:54:13.998 INFO: total+jump S: -3
+- 15:54:13.998 INFO: available moves S: 1
+- 15:54:13.999 INFO: total+jump+available S: -1
+- 15:54:13.999 INFO: white S: -6
+- 15:54:13.999 INFO: red S: 6
+- 15:54:13.999 INFO: total S: 0
+- 15:54:13.999 INFO: total+jump S: 0
+- 15:54:13.999 INFO: available moves S: 10
+- 15:54:13.999 INFO: total+jump+available S: 20
+- 15:54:13.000 INFO: white S: -9
+- 15:54:13.000 INFO: red S: 3
+- 15:54:13.000 INFO: total S: -6
+- 15:54:13.000 INFO: total+jump S: -6
+- 15:54:13.000 INFO: available moves S: 8
+- 15:54:13.000 INFO: total+jump+available S: 10
+- 15:54:14.001 INFO: white S: -5
+- 15:54:14.001 INFO: red S: 4
+- 15:54:14.001 INFO: total S: -1
+- 15:54:14.001 INFO: total+jump S: -1
+- 15:54:14.001 INFO: available moves S: 1
+- 15:54:14.001 INFO: total+jump+available S: 1
+- 15:54:14.001 INFO: white S: -5
+- 15:54:14.001 INFO: red S: 5
+- 15:54:14.001 INFO: total S: 0
+- 15:54:14.001 INFO: total+jump S: 0
+- 15:54:14.001 INFO: available moves S: 1
+- 15:54:14.001 INFO: total+jump+available S: 2
+- 15:54:14.008 INFO: white S: -4
+- 15:54:14.008 INFO: red S: 7
+- 15:54:14.008 INFO: total S: 3
+- 15:54:14.008 INFO: total+jump S: 3
+- 15:54:14.008 INFO: available moves S: 6
+- 15:54:14.008 INFO: total+jump+available S: 15
+- 15:54:14.013 INFO: white S: -4
+- 15:54:14.013 INFO: red S: 5
+- 15:54:14.013 INFO: total S: 1
+- 15:54:14.013 INFO: total+jump S: 1
+- 15:54:14.013 INFO: available moves S: 8
+- 15:54:14.013 INFO: total+jump+available S: 17
+- 15:54:14.018 INFO: white S: -4
+- 15:54:14.018 INFO: red S: 5
+- 15:54:14.018 INFO: total S: 1
+- 15:54:14.018 INFO: total+jump S: 1
+- 15:54:14.018 INFO: available moves S: 2
+- 15:54:14.018 INFO: total+jump+available S: 5
+- 15:54:14.021 INFO: white S: -2
+- 15:54:14.021 INFO: red S: 4
+- 15:54:14.021 INFO: total S: 2
+- 15:54:14.021 INFO: total+jump S: 6
+- 15:54:14.021 INFO: available moves S: 2
+- 15:54:14.021 INFO: total+jump+available S: 10
+- 15:54:14.022 INFO: white S: -2
+- 15:54:14.022 INFO: red S: 4
+- 15:54:14.022 INFO: total S: 2
+- 15:54:14.022 INFO: total+jump S: 6
+- 15:54:14.022 INFO: available moves S: 2
+- 15:54:14.022 INFO: total+jump+available S: 10
+- 15:54:14.023 INFO: white S: -2
+- 15:54:14.023 INFO: red S: 4
+- 15:54:14.023 INFO: total S: 2
+- 15:54:14.023 INFO: total+jump S: 6
+- 15:54:14.023 INFO: available moves S: 2
+- 15:54:14.023 INFO: total+jump+available S: 10
+- 15:54:14.025 INFO: white S: -3
+- 15:54:14.025 INFO: red S: 6
+- 15:54:14.026 INFO: total S: 3
+- 15:54:14.026 INFO: total+jump S: 3
+- 15:54:14.026 INFO: available moves S: 6
+- 15:54:14.026 INFO: total+jump+available S: 15
+- 15:54:14.026 INFO: white S: -4
+- 15:54:14.026 INFO: red S: 4
+- 15:54:14.027 INFO: total S: 0
+- 15:54:14.027 INFO: total+jump S: 0
+- 15:54:14.027 INFO: available moves S: 7
+- 15:54:14.027 INFO: total+jump+available S: 14
+- 15:54:14.027 INFO: white S: -4
+- 15:54:14.027 INFO: red S: 4
+- 15:54:14.027 INFO: total S: 0
+- 15:54:14.027 INFO: total+jump S: 0
+- 15:54:14.027 INFO: available moves S: 7
+- 15:54:14.027 INFO: total+jump+available S: 14
+- 15:54:14.028 INFO: white S: 0
+- 15:54:14.028 INFO: red S: 6
+- 15:54:14.028 INFO: total S: 6
+- 15:54:14.028 INFO: total+jump S: 10
+- 15:54:14.028 INFO: available moves S: 1
+- 15:54:14.028 INFO: total+jump+available S: 12
+- 15:54:14.029 INFO: white S: -1
+- 15:54:14.029 INFO: red S: 6
+- 15:54:14.029 INFO: total S: 5
+- 15:54:14.029 INFO: total+jump S: 5
+- 15:54:14.029 INFO: available moves S: 2
+- 15:54:14.029 INFO: total+jump+available S: 9
+- 15:54:14.032 INFO: white S: -3
+- 15:54:14.032 INFO: red S: 5
+- 15:54:14.032 INFO: total S: 2
+- 15:54:14.032 INFO: total+jump S: 2
+- 15:54:14.032 INFO: available moves S: 5
+- 15:54:14.032 INFO: total+jump+available S: 12
+- 15:54:14.034 INFO: white S: -3
+- 15:54:14.035 INFO: red S: 5
+- 15:54:14.035 INFO: total S: 2
+- 15:54:14.035 INFO: total+jump S: 2
+- 15:54:14.035 INFO: available moves S: 5
+- 15:54:14.035 INFO: total+jump+available S: 12
+- 15:54:14.036 INFO: white S: -3
+- 15:54:14.036 INFO: red S: 5
+- 15:54:14.036 INFO: total S: 2
+- 15:54:14.036 INFO: total+jump S: 2
+- 15:54:14.036 INFO: available moves S: 5
+- 15:54:14.036 INFO: total+jump+available S: 12
+- 15:54:14.036 INFO: white S: -3
+- 15:54:14.036 INFO: red S: 5
+- 15:54:14.036 INFO: total S: 2
+- 15:54:14.036 INFO: total+jump S: 2
+- 15:54:14.036 INFO: available moves S: 5
+- 15:54:14.036 INFO: total+jump+available S: 12
+- 15:54:14.037 INFO: white S: -2
+- 15:54:14.037 INFO: red S: 8
+- 15:54:14.037 INFO: total S: 6
+- 15:54:14.037 INFO: total+jump S: 6
+- 15:54:14.037 INFO: available moves S: 2
+- 15:54:14.037 INFO: total+jump+available S: 10
+- 15:54:14.038 INFO: white S: -2
+- 15:54:14.038 INFO: red S: 8
+- 15:54:14.038 INFO: total S: 6
+- 15:54:14.038 INFO: total+jump S: 6
+- 15:54:14.038 INFO: available moves S: 1
+- 15:54:14.038 INFO: total+jump+available S: 8
+- 15:54:14.039 INFO: white S: -2
+- 15:54:14.039 INFO: red S: 8
+- 15:54:14.039 INFO: total S: 6
+- 15:54:14.039 INFO: total+jump S: 6
+- 15:54:14.039 INFO: available moves S: 1
+- 15:54:14.039 INFO: total+jump+available S: 8
+- 15:54:14.042 INFO: white S: -3
+- 15:54:14.042 INFO: red S: 5
+- 15:54:14.042 INFO: total S: 2
+- 15:54:14.042 INFO: total+jump S: 2
+- 15:54:14.042 INFO: available moves S: 6
+- 15:54:14.042 INFO: total+jump+available S: 14
+- 15:54:14.043 INFO: white S: 0
+- 15:54:14.043 INFO: red S: 8
+- 15:54:14.043 INFO: total S: 8
+- 15:54:14.043 INFO: total+jump S: 12
+- 15:54:14.043 INFO: available moves S: 1
+- 15:54:14.043 INFO: total+jump+available S: 14
+- 15:54:14.043 INFO: white S: 0
+- 15:54:14.043 INFO: red S: 8
+- 15:54:14.043 INFO: total S: 8
+- 15:54:14.043 INFO: total+jump S: 12
+- 15:54:14.043 INFO: available moves S: 1
+- 15:54:14.043 INFO: total+jump+available S: 14
+- 15:54:14.044 INFO: white S: 0
+- 15:54:14.044 INFO: red S: 8
+- 15:54:14.044 INFO: total S: 8
+- 15:54:14.044 INFO: total+jump S: 12
+- 15:54:14.044 INFO: available moves S: 1
+- 15:54:14.044 INFO: total+jump+available S: 14
+- 15:54:14.044 INFO: white S: -2
+- 15:54:14.044 INFO: red S: 6
+- 15:54:14.044 INFO: total S: 4
+- 15:54:14.045 INFO: total+jump S: 4
+- 15:54:14.045 INFO: available moves S: 4
+- 15:54:14.045 INFO: total+jump+available S: 12
+- 15:54:14.046 INFO: white S: 0
+- 15:54:14.046 INFO: red S: 5
+- 15:54:14.046 INFO: total S: 5
+- 15:54:14.046 INFO: total+jump S: 9
+- 15:54:14.046 INFO: available moves S: 1
+- 15:54:14.046 INFO: total+jump+available S: 11
+- 15:54:14.048 INFO: white S: -3
+- 15:54:14.048 INFO: red S: 5
+- 15:54:14.048 INFO: total S: 2
+- 15:54:14.048 INFO: total+jump S: 2
+- 15:54:14.048 INFO: available moves S: 5
+- 15:54:14.048 INFO: total+jump+available S: 12
+- 15:54:14.049 INFO: white S: -4
+- 15:54:14.049 INFO: red S: 6
+- 15:54:14.049 INFO: total S: 2
+- 15:54:14.049 INFO: total+jump S: 2
+- 15:54:14.049 INFO: available moves S: 6
+- 15:54:14.049 INFO: total+jump+available S: 14
+- 15:54:14.049 INFO: white S: -4
+- 15:54:14.049 INFO: red S: 4
+- 15:54:14.049 INFO: total S: 0
+- 15:54:14.049 INFO: total+jump S: 0
+- 15:54:14.049 INFO: available moves S: 3
+- 15:54:14.049 INFO: total+jump+available S: 6
+- 15:54:14.051 INFO: white S: -4
+- 15:54:14.051 INFO: red S: 6
+- 15:54:14.051 INFO: total S: 2
+- 15:54:14.051 INFO: total+jump S: 2
+- 15:54:14.051 INFO: available moves S: 6
+- 15:54:14.051 INFO: total+jump+available S: 14
+- 15:54:14.052 INFO: white S: -4
+- 15:54:14.052 INFO: red S: 6
+- 15:54:14.052 INFO: total S: 2
+- 15:54:14.052 INFO: total+jump S: 2
+- 15:54:14.052 INFO: available moves S: 8
+- 15:54:14.052 INFO: total+jump+available S: 18
+- 15:54:14.053 INFO: white S: -4
+- 15:54:14.053 INFO: red S: 6
+- 15:54:14.053 INFO: total S: 2
+- 15:54:14.053 INFO: total+jump S: 2
+- 15:54:14.053 INFO: available moves S: 8
+- 15:54:14.053 INFO: total+jump+available S: 18
+- 15:54:14.053 INFO: white S: -4
+- 15:54:14.053 INFO: red S: 6
+- 15:54:14.053 INFO: total S: 2
+- 15:54:14.053 INFO: total+jump S: 2
+- 15:54:14.053 INFO: available moves S: 8
+- 15:54:14.053 INFO: total+jump+available S: 18
+- 15:54:14.054 INFO: white S: -4
+- 15:54:14.054 INFO: red S: 5
+- 15:54:14.054 INFO: total S: 1
+- 15:54:14.054 INFO: total+jump S: 1
+- 15:54:14.054 INFO: available moves S: 6
+- 15:54:14.054 INFO: total+jump+available S: 13
+- 15:54:14.057 INFO: white S: -3
+- 15:54:14.057 INFO: red S: 7
+- 15:54:14.057 INFO: total S: 4
+- 15:54:14.057 INFO: total+jump S: 4
+- 15:54:14.057 INFO: available moves S: 4
+- 15:54:14.057 INFO: total+jump+available S: 12
+- 15:54:14.057 INFO: white S: -3
+- 15:54:14.057 INFO: red S: 7
+- 15:54:14.057 INFO: total S: 4
+- 15:54:14.057 INFO: total+jump S: 4
+- 15:54:14.057 INFO: available moves S: 4
+- 15:54:14.057 INFO: total+jump+available S: 12
+- 15:54:14.057 INFO: white S: -3
+- 15:54:14.057 INFO: red S: 7
+- 15:54:14.057 INFO: total S: 4
+- 15:54:14.057 INFO: total+jump S: 4
+- 15:54:14.057 INFO: available moves S: 4
+- 15:54:14.057 INFO: total+jump+available S: 12
+- 15:54:14.058 INFO: white S: -3
+- 15:54:14.058 INFO: red S: 7
+- 15:54:14.058 INFO: total S: 4
+- 15:54:14.058 INFO: total+jump S: 4
+- 15:54:14.058 INFO: available moves S: 4
+- 15:54:14.058 INFO: total+jump+available S: 12
+- 15:54:14.058 INFO: white S: -2
+- 15:54:14.058 INFO: red S: 8
+- 15:54:14.058 INFO: total S: 6
+- 15:54:14.058 INFO: total+jump S: 10
+- 15:54:14.058 INFO: available moves S: 2
+- 15:54:14.058 INFO: total+jump+available S: 14
+- 15:54:14.060 INFO: white S: 0
+- 15:54:14.060 INFO: red S: 8
+- 15:54:14.060 INFO: total S: 8
+- 15:54:14.060 INFO: total+jump S: 12
+- 15:54:14.060 INFO: available moves S: 1
+- 15:54:14.060 INFO: total+jump+available S: 14
+- 15:54:14.061 INFO: white S: 0
+- 15:54:14.061 INFO: red S: 8
+- 15:54:14.061 INFO: total S: 8
+- 15:54:14.061 INFO: total+jump S: 12
+- 15:54:14.061 INFO: available moves S: 1
+- 15:54:14.061 INFO: total+jump+available S: 14
+- 15:54:14.061 INFO: white S: 0
+- 15:54:14.061 INFO: red S: 8
+- 15:54:14.061 INFO: total S: 8
+- 15:54:14.061 INFO: total+jump S: 12
+- 15:54:14.061 INFO: available moves S: 1
+- 15:54:14.061 INFO: total+jump+available S: 14
+- 15:54:14.062 INFO: white S: 0
+- 15:54:14.062 INFO: red S: 8
+- 15:54:14.062 INFO: total S: 8
+- 15:54:14.062 INFO: total+jump S: 12
+- 15:54:14.062 INFO: available moves S: 1
+- 15:54:14.062 INFO: total+jump+available S: 14
+- 15:54:14.062 INFO: white S: -2
+- 15:54:14.062 INFO: red S: 8
+- 15:54:14.062 INFO: total S: 6
+- 15:54:14.062 INFO: total+jump S: 10
+- 15:54:14.062 INFO: available moves S: 4
+- 15:54:14.062 INFO: total+jump+available S: 18
+- 15:54:14.062 INFO: white S: -2
+- 15:54:14.062 INFO: red S: 8
+- 15:54:14.062 INFO: total S: 6
+- 15:54:14.062 INFO: total+jump S: 10
+- 15:54:14.062 INFO: available moves S: 4
+- 15:54:14.062 INFO: total+jump+available S: 18
+- 15:54:14.063 INFO: white S: -2
+- 15:54:14.063 INFO: red S: 8
+- 15:54:14.063 INFO: total S: 6
+- 15:54:14.063 INFO: total+jump S: 10
+- 15:54:14.063 INFO: available moves S: 4
+- 15:54:14.063 INFO: total+jump+available S: 18
+- 15:54:14.065 INFO: white S: 0
+- 15:54:14.065 INFO: red S: 8
+- 15:54:14.065 INFO: total S: 8
+- 15:54:14.065 INFO: total+jump S: 12
+- 15:54:14.065 INFO: available moves S: 1
+- 15:54:14.065 INFO: total+jump+available S: 14
+- 15:54:14.065 INFO: white S: 0
+- 15:54:14.065 INFO: red S: 8
+- 15:54:14.065 INFO: total S: 8
+- 15:54:14.065 INFO: total+jump S: 12
+- 15:54:14.065 INFO: available moves S: 1
+- 15:54:14.065 INFO: total+jump+available S: 14
+- 15:54:14.066 INFO: white S: 0
+- 15:54:14.066 INFO: red S: 8
+- 15:54:14.066 INFO: total S: 8
+- 15:54:14.066 INFO: total+jump S: 12
+- 15:54:14.066 INFO: available moves S: 1
+- 15:54:14.066 INFO: total+jump+available S: 14
+- 15:54:14.066 INFO: white S: 0
+- 15:54:14.066 INFO: red S: 8
+- 15:54:14.066 INFO: total S: 8
+- 15:54:14.066 INFO: total+jump S: 12
+- 15:54:14.066 INFO: available moves S: 1
+- 15:54:14.066 INFO: total+jump+available S: 14
+- 15:54:14.067 INFO: white S: 0
+- 15:54:14.067 INFO: red S: 8
+- 15:54:14.067 INFO: total S: 8
+- 15:54:14.067 INFO: total+jump S: 12
+- 15:54:14.067 INFO: available moves S: 1
+- 15:54:14.067 INFO: total+jump+available S: 14
+- 15:54:14.067 INFO: white S: 0
+- 15:54:14.067 INFO: red S: 7
+- 15:54:14.067 INFO: total S: 7
+- 15:54:14.067 INFO: total+jump S: 11
+- 15:54:14.067 INFO: available moves S: 1
+- 15:54:14.067 INFO: total+jump+available S: 13
+- 15:54:14.068 INFO: white S: 0
+- 15:54:14.068 INFO: red S: 7
+- 15:54:14.068 INFO: total S: 7
+- 15:54:14.068 INFO: total+jump S: 11
+- 15:54:14.068 INFO: available moves S: 1
+- 15:54:14.068 INFO: total+jump+available S: 13
+- 15:54:14.071 INFO: white S: 0
+- 15:54:14.071 INFO: red S: 8
+- 15:54:14.071 INFO: total S: 8
+- 15:54:14.071 INFO: total+jump S: 12
+- 15:54:14.071 INFO: available moves S: 1
+- 15:54:14.071 INFO: total+jump+available S: 14
+- 15:54:14.071 INFO: white S: 0
+- 15:54:14.071 INFO: red S: 8
+- 15:54:14.071 INFO: total S: 8
+- 15:54:14.071 INFO: total+jump S: 12
+- 15:54:14.071 INFO: available moves S: 1
+- 15:54:14.071 INFO: total+jump+available S: 14
+- 15:54:14.072 INFO: white S: -2
+- 15:54:14.072 INFO: red S: 8
+- 15:54:14.072 INFO: total S: 6
+- 15:54:14.072 INFO: total+jump S: 10
+- 15:54:14.072 INFO: available moves S: 4
+- 15:54:14.072 INFO: total+jump+available S: 18
+- 15:54:14.072 INFO: white S: 0
+- 15:54:14.072 INFO: red S: 8
+- 15:54:14.072 INFO: total S: 8
+- 15:54:14.072 INFO: total+jump S: 12
+- 15:54:14.072 INFO: available moves S: 1
+- 15:54:14.072 INFO: total+jump+available S: 14
+- 15:54:14.073 INFO: white S: -2
+- 15:54:14.073 INFO: red S: 8
+- 15:54:14.073 INFO: total S: 6
+- 15:54:14.073 INFO: total+jump S: 10
+- 15:54:14.073 INFO: available moves S: 4
+- 15:54:14.073 INFO: total+jump+available S: 18
+- 15:54:14.073 INFO: white S: -2
+- 15:54:14.073 INFO: red S: 8
+- 15:54:14.073 INFO: total S: 6
+- 15:54:14.073 INFO: total+jump S: 10
+- 15:54:14.073 INFO: available moves S: 4
+- 15:54:14.073 INFO: total+jump+available S: 18
+- 15:54:14.077 INFO: white S: 0
+- 15:54:14.077 INFO: red S: 8
+- 15:54:14.077 INFO: total S: 8
+- 15:54:14.077 INFO: total+jump S: 12
+- 15:54:14.077 INFO: available moves S: 1
+- 15:54:14.077 INFO: total+jump+available S: 14
+- 15:54:14.077 INFO: white S: 0
+- 15:54:14.077 INFO: red S: 8
+- 15:54:14.077 INFO: total S: 8
+- 15:54:14.077 INFO: total+jump S: 12
+- 15:54:14.077 INFO: available moves S: 1
+- 15:54:14.077 INFO: total+jump+available S: 14
+- 15:54:14.078 INFO: white S: 0
+- 15:54:14.078 INFO: red S: 8
+- 15:54:14.078 INFO: total S: 8
+- 15:54:14.078 INFO: total+jump S: 12
+- 15:54:14.078 INFO: available moves S: 1
+- 15:54:14.078 INFO: total+jump+available S: 14
+- 15:54:14.079 INFO: white S: 0
+- 15:54:14.079 INFO: red S: 8
+- 15:54:14.079 INFO: total S: 8
+- 15:54:14.079 INFO: total+jump S: 12
+- 15:54:14.079 INFO: available moves S: 1
+- 15:54:14.079 INFO: total+jump+available S: 14
+- 15:54:14.083 INFO: white S: 0
+- 15:54:14.083 INFO: red S: 8
+- 15:54:14.083 INFO: total S: 8
+- 15:54:14.083 INFO: total+jump S: 12
+- 15:54:14.083 INFO: available moves S: 1
+- 15:54:14.084 INFO: total+jump+available S: 14
+- 15:54:14.084 INFO: white S: 0
+- 15:54:14.084 INFO: red S: 8
+- 15:54:14.084 INFO: total S: 8
+- 15:54:14.084 INFO: total+jump S: 12
+- 15:54:14.084 INFO: available moves S: 1
+- 15:54:14.084 INFO: total+jump+available S: 14
+- 15:54:14.084 INFO: white S: 0
+- 15:54:14.084 INFO: red S: 8
+- 15:54:14.084 INFO: total S: 8
+- 15:54:14.084 INFO: total+jump S: 12
+- 15:54:14.084 INFO: available moves S: 1
+- 15:54:14.084 INFO: total+jump+available S: 14
+- 15:54:14.085 INFO: white S: 0
+- 15:54:14.085 INFO: red S: 8
+- 15:54:14.085 INFO: total S: 8
+- 15:54:14.085 INFO: total+jump S: 12
+- 15:54:14.085 INFO: available moves S: 1
+- 15:54:14.085 INFO: total+jump+available S: 14
+- 15:54:14.086 INFO: white S: -2
+- 15:54:14.086 INFO: red S: 8
+- 15:54:14.086 INFO: total S: 6
+- 15:54:14.086 INFO: total+jump S: 10
+- 15:54:14.086 INFO: available moves S: 4
+- 15:54:14.086 INFO: total+jump+available S: 18
+- 15:54:14.086 INFO: white S: -2
+- 15:54:14.086 INFO: red S: 8
+- 15:54:14.086 INFO: total S: 6
+- 15:54:14.086 INFO: total+jump S: 10
+- 15:54:14.086 INFO: available moves S: 4
+- 15:54:14.086 INFO: total+jump+available S: 18
+- 15:54:14.088 INFO: white S: 0
+- 15:54:14.088 INFO: red S: 8
+- 15:54:14.088 INFO: total S: 8
+- 15:54:14.088 INFO: total+jump S: 12
+- 15:54:14.088 INFO: available moves S: 1
+- 15:54:14.088 INFO: total+jump+available S: 14
+- 15:54:14.089 INFO: white S: 0
+- 15:54:14.089 INFO: red S: 8
+- 15:54:14.089 INFO: total S: 8
+- 15:54:14.089 INFO: total+jump S: 12
+- 15:54:14.089 INFO: available moves S: 1
+- 15:54:14.089 INFO: total+jump+available S: 14
+- 15:54:14.090 INFO: white S: 0
+- 15:54:14.090 INFO: red S: 8
+- 15:54:14.090 INFO: total S: 8
+- 15:54:14.090 INFO: total+jump S: 12
+- 15:54:14.090 INFO: available moves S: 1
+- 15:54:14.090 INFO: total+jump+available S: 14
+- 15:54:14.090 INFO: white S: 0
+- 15:54:14.090 INFO: red S: 8
+- 15:54:14.090 INFO: total S: 8
+- 15:54:14.090 INFO: total+jump S: 12
+- 15:54:14.090 INFO: available moves S: 1
+- 15:54:14.090 INFO: total+jump+available S: 14
+- 15:54:14.091 INFO: white S: 0
+- 15:54:14.091 INFO: red S: 8
+- 15:54:14.091 INFO: total S: 8
+- 15:54:14.091 INFO: total+jump S: 12
+- 15:54:14.091 INFO: available moves S: 1
+- 15:54:14.091 INFO: total+jump+available S: 14
+- 15:54:14.091 INFO: white S: 0
+- 15:54:14.091 INFO: red S: 8
+- 15:54:14.091 INFO: total S: 8
+- 15:54:14.091 INFO: total+jump S: 12
+- 15:54:14.091 INFO: available moves S: 1
+- 15:54:14.091 INFO: total+jump+available S: 14
+- 15:54:14.092 INFO: white S: -2
+- 15:54:14.092 INFO: red S: 6
+- 15:54:14.092 INFO: total S: 4
+- 15:54:14.092 INFO: total+jump S: 4
+- 15:54:14.092 INFO: available moves S: 4
+- 15:54:14.092 INFO: total+jump+available S: 12
+- 15:54:14.092 INFO: white S: -2
+- 15:54:14.092 INFO: red S: 6
+- 15:54:14.092 INFO: total S: 4
+- 15:54:14.092 INFO: total+jump S: 4
+- 15:54:14.092 INFO: available moves S: 4
+- 15:54:14.092 INFO: total+jump+available S: 12
+- 15:54:14.096 INFO: white S: 0
+- 15:54:14.096 INFO: red S: 8
+- 15:54:14.096 INFO: total S: 8
+- 15:54:14.096 INFO: total+jump S: 12
+- 15:54:14.096 INFO: available moves S: 1
+- 15:54:14.096 INFO: total+jump+available S: 14
+- 15:54:14.097 INFO: white S: 0
+- 15:54:14.097 INFO: red S: 8
+- 15:54:14.097 INFO: total S: 8
+- 15:54:14.097 INFO: total+jump S: 12
+- 15:54:14.097 INFO: available moves S: 1
+- 15:54:14.097 INFO: total+jump+available S: 14
+- 15:54:14.097 INFO: white S: 0
+- 15:54:14.097 INFO: red S: 8
+- 15:54:14.097 INFO: total S: 8
+- 15:54:14.097 INFO: total+jump S: 12
+- 15:54:14.097 INFO: available moves S: 1
+- 15:54:14.097 INFO: total+jump+available S: 14
+- 15:54:14.098 INFO: white S: 0
+- 15:54:14.098 INFO: red S: 8
+- 15:54:14.098 INFO: total S: 8
+- 15:54:14.098 INFO: total+jump S: 12
+- 15:54:14.098 INFO: available moves S: 1
+- 15:54:14.098 INFO: total+jump+available S: 14
+- 15:54:14.099 INFO: white S: -2
+- 15:54:14.099 INFO: red S: 8
+- 15:54:14.099 INFO: total S: 6
+- 15:54:14.099 INFO: total+jump S: 10
+- 15:54:14.099 INFO: available moves S: 4
+- 15:54:14.099 INFO: total+jump+available S: 18
+- 15:54:14.100 INFO: white S: -2
+- 15:54:14.100 INFO: red S: 8
+- 15:54:14.100 INFO: total S: 6
+- 15:54:14.100 INFO: total+jump S: 10
+- 15:54:14.100 INFO: available moves S: 4
+- 15:54:14.100 INFO: total+jump+available S: 18
+- 15:54:14.101 INFO: white S: 0
+- 15:54:14.101 INFO: red S: 8
+- 15:54:14.101 INFO: total S: 8
+- 15:54:14.101 INFO: total+jump S: 12
+- 15:54:14.101 INFO: available moves S: 1
+- 15:54:14.101 INFO: total+jump+available S: 14
+- 15:54:14.101 INFO: white S: 0
+- 15:54:14.101 INFO: red S: 8
+- 15:54:14.101 INFO: total S: 8
+- 15:54:14.101 INFO: total+jump S: 12
+- 15:54:14.101 INFO: available moves S: 1
+- 15:54:14.101 INFO: total+jump+available S: 14
+- 15:54:14.102 INFO: white S: 0
+- 15:54:14.102 INFO: red S: 8
+- 15:54:14.102 INFO: total S: 8
+- 15:54:14.102 INFO: total+jump S: 12
+- 15:54:14.102 INFO: available moves S: 1
+- 15:54:14.102 INFO: total+jump+available S: 14
+- 15:54:14.103 INFO: white S: -2
+- 15:54:14.103 INFO: red S: 8
+- 15:54:14.103 INFO: total S: 6
+- 15:54:14.103 INFO: total+jump S: 10
+- 15:54:14.103 INFO: available moves S: 4
+- 15:54:14.103 INFO: total+jump+available S: 18
+- 15:54:14.104 INFO: white S: -2
+- 15:54:14.104 INFO: red S: 8
+- 15:54:14.104 INFO: total S: 6
+- 15:54:14.104 INFO: total+jump S: 10
+- 15:54:14.104 INFO: available moves S: 4
+- 15:54:14.104 INFO: total+jump+available S: 18
+- 15:54:14.106 INFO: white S: 0
+- 15:54:14.106 INFO: red S: 8
+- 15:54:14.106 INFO: total S: 8
+- 15:54:14.106 INFO: total+jump S: 12
+- 15:54:14.106 INFO: available moves S: 1
+- 15:54:14.106 INFO: total+jump+available S: 14
+- 15:54:14.107 INFO: white S: 0
+- 15:54:14.107 INFO: red S: 8
+- 15:54:14.107 INFO: total S: 8
+- 15:54:14.107 INFO: total+jump S: 12
+- 15:54:14.107 INFO: available moves S: 1
+- 15:54:14.107 INFO: total+jump+available S: 14
+- 15:54:14.108 INFO: white S: 0
+- 15:54:14.108 INFO: red S: 8
+- 15:54:14.108 INFO: total S: 8
+- 15:54:14.108 INFO: total+jump S: 12
+- 15:54:14.108 INFO: available moves S: 1
+- 15:54:14.108 INFO: total+jump+available S: 14
+- 15:54:14.109 INFO: white S: 0
+- 15:54:14.109 INFO: red S: 8
+- 15:54:14.109 INFO: total S: 8
+- 15:54:14.109 INFO: total+jump S: 12
+- 15:54:14.109 INFO: available moves S: 1
+- 15:54:14.109 INFO: total+jump+available S: 14
+- 15:54:14.110 INFO: white S: 0
+- 15:54:14.110 INFO: red S: 8
+- 15:54:14.110 INFO: total S: 8
+- 15:54:14.110 INFO: total+jump S: 12
+- 15:54:14.110 INFO: available moves S: 1
+- 15:54:14.110 INFO: total+jump+available S: 14
+- 15:54:14.110 INFO: white S: 0
+- 15:54:14.110 INFO: red S: 8
+- 15:54:14.110 INFO: total S: 8
+- 15:54:14.110 INFO: total+jump S: 12
+- 15:54:14.110 INFO: available moves S: 1
+- 15:54:14.110 INFO: total+jump+available S: 14
+- 15:54:14.111 INFO: white S: -2
+- 15:54:14.111 INFO: red S: 6
+- 15:54:14.111 INFO: total S: 4
+- 15:54:14.111 INFO: total+jump S: 4
+- 15:54:14.111 INFO: available moves S: 4
+- 15:54:14.111 INFO: total+jump+available S: 12
+- 15:54:14.112 INFO: white S: -2
+- 15:54:14.112 INFO: red S: 6
+- 15:54:14.112 INFO: total S: 4
+- 15:54:14.112 INFO: total+jump S: 4
+- 15:54:14.112 INFO: available moves S: 4
+- 15:54:14.112 INFO: total+jump+available S: 12
+- 15:54:14.116 INFO: white S: 0
+- 15:54:14.116 INFO: red S: 8
+- 15:54:14.116 INFO: total S: 8
+- 15:54:14.116 INFO: total+jump S: 12
+- 15:54:14.116 INFO: available moves S: 1
+- 15:54:14.116 INFO: total+jump+available S: 14
+- 15:54:14.116 INFO: white S: 0
+- 15:54:14.116 INFO: red S: 8
+- 15:54:14.116 INFO: total S: 8
+- 15:54:14.116 INFO: total+jump S: 12
+- 15:54:14.116 INFO: available moves S: 1
+- 15:54:14.116 INFO: total+jump+available S: 14
+- 15:54:14.117 INFO: white S: 0
+- 15:54:14.117 INFO: red S: 8
+- 15:54:14.117 INFO: total S: 8
+- 15:54:14.117 INFO: total+jump S: 12
+- 15:54:14.117 INFO: available moves S: 1
+- 15:54:14.117 INFO: total+jump+available S: 14
+- 15:54:14.118 INFO: white S: 0
+- 15:54:14.118 INFO: red S: 8
+- 15:54:14.118 INFO: total S: 8
+- 15:54:14.118 INFO: total+jump S: 12
+- 15:54:14.118 INFO: available moves S: 1
+- 15:54:14.118 INFO: total+jump+available S: 14
+- 15:54:14.119 INFO: white S: -2
+- 15:54:14.119 INFO: red S: 8
+- 15:54:14.119 INFO: total S: 6
+- 15:54:14.119 INFO: total+jump S: 10
+- 15:54:14.119 INFO: available moves S: 4
+- 15:54:14.119 INFO: total+jump+available S: 18
+- 15:54:14.120 INFO: white S: -2
+- 15:54:14.120 INFO: red S: 8
+- 15:54:14.120 INFO: total S: 6
+- 15:54:14.120 INFO: total+jump S: 10
+- 15:54:14.120 INFO: available moves S: 4
+- 15:54:14.120 INFO: total+jump+available S: 18
+- 15:54:14.120 INFO: white S: 0
+- 15:54:14.120 INFO: red S: 8
+- 15:54:14.120 INFO: total S: 8
+- 15:54:14.120 INFO: total+jump S: 12
+- 15:54:14.121 INFO: available moves S: 1
+- 15:54:14.121 INFO: total+jump+available S: 14
+- 15:54:14.121 INFO: white S: 0
+- 15:54:14.121 INFO: red S: 8
+- 15:54:14.121 INFO: total S: 8
+- 15:54:14.121 INFO: total+jump S: 12
+- 15:54:14.121 INFO: available moves S: 1
+- 15:54:14.121 INFO: total+jump+available S: 14
+- 15:54:14.122 INFO: white S: 0
+- 15:54:14.122 INFO: red S: 8
+- 15:54:14.122 INFO: total S: 8
+- 15:54:14.122 INFO: total+jump S: 12
+- 15:54:14.122 INFO: available moves S: 1
+- 15:54:14.122 INFO: total+jump+available S: 14
+- 15:54:14.123 INFO: white S: -2
+- 15:54:14.123 INFO: red S: 8
+- 15:54:14.123 INFO: total S: 6
+- 15:54:14.123 INFO: total+jump S: 10
+- 15:54:14.123 INFO: available moves S: 4
+- 15:54:14.123 INFO: total+jump+available S: 18
+- 15:54:14.124 INFO: white S: -2
+- 15:54:14.124 INFO: red S: 8
+- 15:54:14.124 INFO: total S: 6
+- 15:54:14.124 INFO: total+jump S: 10
+- 15:54:14.124 INFO: available moves S: 4
+- 15:54:14.124 INFO: total+jump+available S: 18
+- 15:54:14.126 INFO: white S: 0
+- 15:54:14.126 INFO: red S: 8
+- 15:54:14.126 INFO: total S: 8
+- 15:54:14.126 INFO: total+jump S: 12
+- 15:54:14.126 INFO: available moves S: 1
+- 15:54:14.126 INFO: total+jump+available S: 14
+- 15:54:14.127 INFO: white S: 0
+- 15:54:14.127 INFO: red S: 8
+- 15:54:14.127 INFO: total S: 8
+- 15:54:14.127 INFO: total+jump S: 12
+- 15:54:14.127 INFO: available moves S: 1
+- 15:54:14.127 INFO: total+jump+available S: 14
+- 15:54:14.128 INFO: white S: 0
+- 15:54:14.128 INFO: red S: 8
+- 15:54:14.128 INFO: total S: 8
+- 15:54:14.128 INFO: total+jump S: 12
+- 15:54:14.128 INFO: available moves S: 1
+- 15:54:14.128 INFO: total+jump+available S: 14
+- 15:54:14.129 INFO: white S: 0
+- 15:54:14.129 INFO: red S: 8
+- 15:54:14.129 INFO: total S: 8
+- 15:54:14.129 INFO: total+jump S: 12
+- 15:54:14.129 INFO: available moves S: 1
+- 15:54:14.129 INFO: total+jump+available S: 14
+- 15:54:14.129 INFO: white S: 0
+- 15:54:14.129 INFO: red S: 8
+- 15:54:14.130 INFO: total S: 8
+- 15:54:14.130 INFO: total+jump S: 12
+- 15:54:14.130 INFO: available moves S: 1
+- 15:54:14.130 INFO: total+jump+available S: 14
+- 15:54:14.130 INFO: white S: 0
+- 15:54:14.130 INFO: red S: 8
+- 15:54:14.130 INFO: total S: 8
+- 15:54:14.130 INFO: total+jump S: 12
+- 15:54:14.130 INFO: available moves S: 1
+- 15:54:14.130 INFO: total+jump+available S: 14
+- 15:54:14.131 INFO: white S: -2
+- 15:54:14.131 INFO: red S: 6
+- 15:54:14.131 INFO: total S: 4
+- 15:54:14.131 INFO: total+jump S: 4
+- 15:54:14.131 INFO: available moves S: 4
+- 15:54:14.131 INFO: total+jump+available S: 12
+- 15:54:14.132 INFO: white S: -2
+- 15:54:14.132 INFO: red S: 6
+- 15:54:14.132 INFO: total S: 4
+- 15:54:14.132 INFO: total+jump S: 4
+- 15:54:14.132 INFO: available moves S: 4
+- 15:54:14.132 INFO: total+jump+available S: 12
+- 15:54:14.138 INFO: white S: 0
+- 15:54:14.138 INFO: red S: 8
+- 15:54:14.138 INFO: total S: 8
+- 15:54:14.138 INFO: total+jump S: 12
+- 15:54:14.138 INFO: available moves S: 1
+- 15:54:14.138 INFO: total+jump+available S: 14
+- 15:54:14.138 INFO: white S: 0
+- 15:54:14.138 INFO: red S: 8
+- 15:54:14.138 INFO: total S: 8
+- 15:54:14.138 INFO: total+jump S: 12
+- 15:54:14.138 INFO: available moves S: 1
+- 15:54:14.138 INFO: total+jump+available S: 14
+- 15:54:14.139 INFO: white S: 0
+- 15:54:14.139 INFO: red S: 8
+- 15:54:14.139 INFO: total S: 8
+- 15:54:14.139 INFO: total+jump S: 12
+- 15:54:14.139 INFO: available moves S: 1
+- 15:54:14.139 INFO: total+jump+available S: 14
+- 15:54:14.140 INFO: white S: 0
+- 15:54:14.140 INFO: red S: 8
+- 15:54:14.140 INFO: total S: 8
+- 15:54:14.140 INFO: total+jump S: 12
+- 15:54:14.140 INFO: available moves S: 1
+- 15:54:14.140 INFO: total+jump+available S: 14
+- 15:54:14.141 INFO: white S: -2
+- 15:54:14.141 INFO: red S: 8
+- 15:54:14.141 INFO: total S: 6
+- 15:54:14.141 INFO: total+jump S: 10
+- 15:54:14.141 INFO: available moves S: 4
+- 15:54:14.141 INFO: total+jump+available S: 18
+- 15:54:14.142 INFO: white S: -2
+- 15:54:14.142 INFO: red S: 8
+- 15:54:14.142 INFO: total S: 6
+- 15:54:14.142 INFO: total+jump S: 10
+- 15:54:14.142 INFO: available moves S: 4
+- 15:54:14.142 INFO: total+jump+available S: 18
+- 15:54:14.142 INFO: white S: 0
+- 15:54:14.142 INFO: red S: 8
+- 15:54:14.142 INFO: total S: 8
+- 15:54:14.142 INFO: total+jump S: 12
+- 15:54:14.142 INFO: available moves S: 1
+- 15:54:14.142 INFO: total+jump+available S: 14
+- 15:54:14.143 INFO: white S: 0
+- 15:54:14.143 INFO: red S: 8
+- 15:54:14.143 INFO: total S: 8
+- 15:54:14.143 INFO: total+jump S: 12
+- 15:54:14.143 INFO: available moves S: 1
+- 15:54:14.143 INFO: total+jump+available S: 14
+- 15:54:14.144 INFO: white S: 0
+- 15:54:14.144 INFO: red S: 8
+- 15:54:14.144 INFO: total S: 8
+- 15:54:14.144 INFO: total+jump S: 12
+- 15:54:14.144 INFO: available moves S: 1
+- 15:54:14.144 INFO: total+jump+available S: 14
+- 15:54:14.144 INFO: white S: -2
+- 15:54:14.144 INFO: red S: 8
+- 15:54:14.144 INFO: total S: 6
+- 15:54:14.145 INFO: total+jump S: 10
+- 15:54:14.145 INFO: available moves S: 4
+- 15:54:14.145 INFO: total+jump+available S: 18
+- 15:54:14.145 INFO: white S: -2
+- 15:54:14.145 INFO: red S: 8
+- 15:54:14.145 INFO: total S: 6
+- 15:54:14.145 INFO: total+jump S: 10
+- 15:54:14.145 INFO: available moves S: 4
+- 15:54:14.145 INFO: total+jump+available S: 18
+- 15:54:14.148 INFO: white S: 0
+- 15:54:14.148 INFO: red S: 8
+- 15:54:14.148 INFO: total S: 8
+- 15:54:14.148 INFO: total+jump S: 12
+- 15:54:14.148 INFO: available moves S: 1
+- 15:54:14.148 INFO: total+jump+available S: 14
+- 15:54:14.150 INFO: white S: 0
+- 15:54:14.150 INFO: red S: 8
+- 15:54:14.150 INFO: total S: 8
+- 15:54:14.150 INFO: total+jump S: 12
+- 15:54:14.150 INFO: available moves S: 1
+- 15:54:14.150 INFO: total+jump+available S: 14
+- 15:54:14.151 INFO: white S: 0
+- 15:54:14.151 INFO: red S: 8
+- 15:54:14.151 INFO: total S: 8
+- 15:54:14.151 INFO: total+jump S: 12
+- 15:54:14.151 INFO: available moves S: 1
+- 15:54:14.151 INFO: total+jump+available S: 14
+- 15:54:14.151 INFO: white S: 0
+- 15:54:14.151 INFO: red S: 8
+- 15:54:14.151 INFO: total S: 8
+- 15:54:14.151 INFO: total+jump S: 12
+- 15:54:14.151 INFO: available moves S: 1
+- 15:54:14.151 INFO: total+jump+available S: 14
+- 15:54:14.152 INFO: white S: 0
+- 15:54:14.152 INFO: red S: 8
+- 15:54:14.152 INFO: total S: 8
+- 15:54:14.152 INFO: total+jump S: 12
+- 15:54:14.152 INFO: available moves S: 1
+- 15:54:14.152 INFO: total+jump+available S: 14
+- 15:54:14.153 INFO: white S: 0
+- 15:54:14.153 INFO: red S: 8
+- 15:54:14.153 INFO: total S: 8
+- 15:54:14.153 INFO: total+jump S: 12
+- 15:54:14.153 INFO: available moves S: 1
+- 15:54:14.153 INFO: total+jump+available S: 14
+- 15:54:14.154 INFO: white S: -2
+- 15:54:14.154 INFO: red S: 6
+- 15:54:14.154 INFO: total S: 4
+- 15:54:14.154 INFO: total+jump S: 4
+- 15:54:14.154 INFO: available moves S: 4
+- 15:54:14.154 INFO: total+jump+available S: 12
+- 15:54:14.154 INFO: white S: -2
+- 15:54:14.154 INFO: red S: 6
+- 15:54:14.154 INFO: total S: 4
+- 15:54:14.154 INFO: total+jump S: 4
+- 15:54:14.154 INFO: available moves S: 4
+- 15:54:14.154 INFO: total+jump+available S: 12
+- 15:54:14.160 INFO: white S: 0
+- 15:54:14.160 INFO: red S: 8
+- 15:54:14.160 INFO: total S: 8
+- 15:54:14.160 INFO: total+jump S: 12
+- 15:54:14.160 INFO: available moves S: 1
+- 15:54:14.160 INFO: total+jump+available S: 14
+- 15:54:14.161 INFO: white S: 0
+- 15:54:14.161 INFO: red S: 8
+- 15:54:14.161 INFO: total S: 8
+- 15:54:14.161 INFO: total+jump S: 12
+- 15:54:14.161 INFO: available moves S: 1
+- 15:54:14.161 INFO: total+jump+available S: 14
+- 15:54:14.162 INFO: white S: 0
+- 15:54:14.162 INFO: red S: 8
+- 15:54:14.162 INFO: total S: 8
+- 15:54:14.162 INFO: total+jump S: 12
+- 15:54:14.162 INFO: available moves S: 1
+- 15:54:14.162 INFO: total+jump+available S: 14
+- 15:54:14.162 INFO: white S: 0
+- 15:54:14.162 INFO: red S: 8
+- 15:54:14.162 INFO: total S: 8
+- 15:54:14.162 INFO: total+jump S: 12
+- 15:54:14.162 INFO: available moves S: 1
+- 15:54:14.162 INFO: total+jump+available S: 14
+- 15:54:14.163 INFO: white S: -2
+- 15:54:14.163 INFO: red S: 8
+- 15:54:14.163 INFO: total S: 6
+- 15:54:14.163 INFO: total+jump S: 10
+- 15:54:14.163 INFO: available moves S: 4
+- 15:54:14.163 INFO: total+jump+available S: 18
+- 15:54:14.164 INFO: white S: -2
+- 15:54:14.164 INFO: red S: 8
+- 15:54:14.164 INFO: total S: 6
+- 15:54:14.164 INFO: total+jump S: 10
+- 15:54:14.164 INFO: available moves S: 4
+- 15:54:14.164 INFO: total+jump+available S: 18
+- 15:54:14.165 INFO: white S: 0
+- 15:54:14.165 INFO: red S: 8
+- 15:54:14.165 INFO: total S: 8
+- 15:54:14.165 INFO: total+jump S: 12
+- 15:54:14.165 INFO: available moves S: 1
+- 15:54:14.165 INFO: total+jump+available S: 14
+- 15:54:14.165 INFO: white S: 0
+- 15:54:14.165 INFO: red S: 8
+- 15:54:14.165 INFO: total S: 8
+- 15:54:14.165 INFO: total+jump S: 12
+- 15:54:14.165 INFO: available moves S: 1
+- 15:54:14.165 INFO: total+jump+available S: 14
+- 15:54:14.166 INFO: white S: 0
+- 15:54:14.166 INFO: red S: 8
+- 15:54:14.166 INFO: total S: 8
+- 15:54:14.166 INFO: total+jump S: 12
+- 15:54:14.166 INFO: available moves S: 1
+- 15:54:14.166 INFO: total+jump+available S: 14
+- 15:54:14.167 INFO: white S: -2
+- 15:54:14.167 INFO: red S: 8
+- 15:54:14.167 INFO: total S: 6
+- 15:54:14.167 INFO: total+jump S: 10
+- 15:54:14.167 INFO: available moves S: 4
+- 15:54:14.167 INFO: total+jump+available S: 18
+- 15:54:14.168 INFO: white S: -2
+- 15:54:14.168 INFO: red S: 8
+- 15:54:14.168 INFO: total S: 6
+- 15:54:14.168 INFO: total+jump S: 10
+- 15:54:14.168 INFO: available moves S: 4
+- 15:54:14.168 INFO: total+jump+available S: 18
+- 15:54:14.170 INFO: white S: 0
+- 15:54:14.170 INFO: red S: 8
+- 15:54:14.170 INFO: total S: 8
+- 15:54:14.170 INFO: total+jump S: 12
+- 15:54:14.170 INFO: available moves S: 1
+- 15:54:14.170 INFO: total+jump+available S: 14
+- 15:54:14.172 INFO: white S: 0
+- 15:54:14.172 INFO: red S: 8
+- 15:54:14.172 INFO: total S: 8
+- 15:54:14.172 INFO: total+jump S: 12
+- 15:54:14.172 INFO: available moves S: 1
+- 15:54:14.172 INFO: total+jump+available S: 14
+- 15:54:14.172 INFO: white S: 0
+- 15:54:14.172 INFO: red S: 8
+- 15:54:14.172 INFO: total S: 8
+- 15:54:14.172 INFO: total+jump S: 12
+- 15:54:14.172 INFO: available moves S: 1
+- 15:54:14.173 INFO: total+jump+available S: 14
+- 15:54:14.173 INFO: white S: 0
+- 15:54:14.173 INFO: red S: 8
+- 15:54:14.173 INFO: total S: 8
+- 15:54:14.173 INFO: total+jump S: 12
+- 15:54:14.173 INFO: available moves S: 1
+- 15:54:14.173 INFO: total+jump+available S: 14
+- 15:54:14.174 INFO: white S: 0
+- 15:54:14.174 INFO: red S: 8
+- 15:54:14.174 INFO: total S: 8
+- 15:54:14.174 INFO: total+jump S: 12
+- 15:54:14.174 INFO: available moves S: 1
+- 15:54:14.174 INFO: total+jump+available S: 14
+- 15:54:14.175 INFO: white S: 0
+- 15:54:14.175 INFO: red S: 8
+- 15:54:14.175 INFO: total S: 8
+- 15:54:14.175 INFO: total+jump S: 12
+- 15:54:14.175 INFO: available moves S: 1
+- 15:54:14.175 INFO: total+jump+available S: 14
+- 15:54:14.176 INFO: white S: -2
+- 15:54:14.176 INFO: red S: 6
+- 15:54:14.176 INFO: total S: 4
+- 15:54:14.176 INFO: total+jump S: 4
+- 15:54:14.176 INFO: available moves S: 4
+- 15:54:14.176 INFO: total+jump+available S: 12
+- 15:54:14.176 INFO: white S: -2
+- 15:54:14.176 INFO: red S: 6
+- 15:54:14.176 INFO: total S: 4
+- 15:54:14.176 INFO: total+jump S: 4
+- 15:54:14.176 INFO: available moves S: 4
+- 15:54:14.176 INFO: total+jump+available S: 12
+- 15:54:14.187 INFO: white S: -2
+- 15:54:14.187 INFO: red S: 6
+- 15:54:14.187 INFO: total S: 4
+- 15:54:14.187 INFO: total+jump S: 4
+- 15:54:14.187 INFO: available moves S: 1
+- 15:54:14.187 INFO: total+jump+available S: 6
+- 15:54:14.188 INFO: white S: -2
+- 15:54:14.188 INFO: red S: 6
+- 15:54:14.188 INFO: total S: 4
+- 15:54:14.188 INFO: total+jump S: 4
+- 15:54:14.188 INFO: available moves S: 1
+- 15:54:14.188 INFO: total+jump+available S: 6
+- 15:54:14.193 INFO: white S: -2
+- 15:54:14.193 INFO: red S: 4
+- 15:54:14.193 INFO: total S: 2
+- 15:54:14.193 INFO: total+jump S: 2
+- 15:54:14.193 INFO: available moves S: 1
+- 15:54:14.193 INFO: total+jump+available S: 4
+- 15:54:14.194 INFO: white S: -2
+- 15:54:14.194 INFO: red S: 4
+- 15:54:14.194 INFO: total S: 2
+- 15:54:14.194 INFO: total+jump S: 2
+- 15:54:14.194 INFO: available moves S: 1
+- 15:54:14.194 INFO: total+jump+available S: 4
+- 15:54:14.195 INFO: white S: -2
+- 15:54:14.195 INFO: red S: 4
+- 15:54:14.195 INFO: total S: 2
+- 15:54:14.195 INFO: total+jump S: 2
+- 15:54:14.195 INFO: available moves S: 1
+- 15:54:14.195 INFO: total+jump+available S: 4
+- 15:54:14.201 INFO: white S: -2
+- 15:54:14.201 INFO: red S: 2
+- 15:54:14.201 INFO: total S: 0
+- 15:54:14.201 INFO: total+jump S: 0
+- 15:54:14.201 INFO: available moves S: 1
+- 15:54:14.201 INFO: total+jump+available S: 2
+- 15:54:14.202 INFO: white S: -2
+- 15:54:14.202 INFO: red S: 2
+- 15:54:14.202 INFO: total S: 0
+- 15:54:14.202 INFO: total+jump S: 0
+- 15:54:14.202 INFO: available moves S: 1
+- 15:54:14.202 INFO: total+jump+available S: 2
+- 15:54:14.203 INFO: white S: -2
+- 15:54:14.203 INFO: red S: 2
+- 15:54:14.203 INFO: total S: 0
+- 15:54:14.203 INFO: total+jump S: 0
+- 15:54:14.203 INFO: available moves S: 1
+- 15:54:14.203 INFO: total+jump+available S: 2
+- 15:54:14.226 INFO: white S: -4
+- 15:54:14.226 INFO: red S: 4
+- 15:54:14.226 INFO: total S: 0
+- 15:54:14.226 INFO: total+jump S: 0
+- 15:54:14.226 INFO: available moves S: 5
+- 15:54:14.226 INFO: total+jump+available S: 10
+- 15:54:14.229 INFO: white S: -4
+- 15:54:14.229 INFO: red S: 4
+- 15:54:14.230 INFO: total S: 0
+- 15:54:14.230 INFO: total+jump S: 0
+- 15:54:14.230 INFO: available moves S: 8
+- 15:54:14.230 INFO: total+jump+available S: 16
+- 15:54:14.231 INFO: white S: -4
+- 15:54:14.231 INFO: red S: 4
+- 15:54:14.231 INFO: total S: 0
+- 15:54:14.231 INFO: total+jump S: 0
+- 15:54:14.231 INFO: available moves S: 8
+- 15:54:14.231 INFO: total+jump+available S: 16
+- 15:54:14.232 INFO: white S: -4
+- 15:54:14.232 INFO: red S: 4
+- 15:54:14.232 INFO: total S: 0
+- 15:54:14.232 INFO: total+jump S: 0
+- 15:54:14.232 INFO: available moves S: 8
+- 15:54:14.232 INFO: total+jump+available S: 16
+- 15:54:14.234 INFO: white S: -4
+- 15:54:14.234 INFO: red S: 4
+- 15:54:14.234 INFO: total S: 0
+- 15:54:14.234 INFO: total+jump S: 0
+- 15:54:14.234 INFO: available moves S: 5
+- 15:54:14.234 INFO: total+jump+available S: 10
+- 15:54:14.234 INFO: white S: -4
+- 15:54:14.234 INFO: red S: 4
+- 15:54:14.234 INFO: total S: 0
+- 15:54:14.234 INFO: total+jump S: 0
+- 15:54:14.234 INFO: available moves S: 5
+- 15:54:14.234 INFO: total+jump+available S: 10
+- 15:54:14.239 INFO: white S: -4
+- 15:54:14.239 INFO: red S: 4
+- 15:54:14.239 INFO: total S: 0
+- 15:54:14.239 INFO: total+jump S: 0
+- 15:54:14.239 INFO: available moves S: 8
+- 15:54:14.239 INFO: total+jump+available S: 16
+- 15:54:14.241 INFO: white S: -4
+- 15:54:14.242 INFO: red S: 4
+- 15:54:14.242 INFO: total S: 0
+- 15:54:14.242 INFO: total+jump S: 0
+- 15:54:14.242 INFO: available moves S: 5
+- 15:54:14.242 INFO: total+jump+available S: 10
+- 15:54:14.243 INFO: white S: -4
+- 15:54:14.243 INFO: red S: 4
+- 15:54:14.243 INFO: total S: 0
+- 15:54:14.243 INFO: total+jump S: 0
+- 15:54:14.243 INFO: available moves S: 8
+- 15:54:14.243 INFO: total+jump+available S: 16
+- 15:54:14.246 INFO: white S: -4
+- 15:54:14.246 INFO: red S: 4
+- 15:54:14.246 INFO: total S: 0
+- 15:54:14.246 INFO: total+jump S: 0
+- 15:54:14.246 INFO: available moves S: 5
+- 15:54:14.246 INFO: total+jump+available S: 10
+- 15:54:14.248 INFO: white S: -4
+- 15:54:14.248 INFO: red S: 4
+- 15:54:14.248 INFO: total S: 0
+- 15:54:14.248 INFO: total+jump S: 0
+- 15:54:14.248 INFO: available moves S: 8
+- 15:54:14.248 INFO: total+jump+available S: 16
+- 15:54:14.250 INFO: white S: -4
+- 15:54:14.250 INFO: red S: 4
+- 15:54:14.250 INFO: total S: 0
+- 15:54:14.250 INFO: total+jump S: 0
+- 15:54:14.250 INFO: available moves S: 5
+- 15:54:14.250 INFO: total+jump+available S: 10
+- 15:54:14.252 INFO: white S: -4
+- 15:54:14.252 INFO: red S: 4
+- 15:54:14.252 INFO: total S: 0
+- 15:54:14.252 INFO: total+jump S: 0
+- 15:54:14.252 INFO: available moves S: 8
+- 15:54:14.252 INFO: total+jump+available S: 16
+- 15:54:14.255 INFO: white S: -4
+- 15:54:14.255 INFO: red S: 4
+- 15:54:14.255 INFO: total S: 0
+- 15:54:14.255 INFO: total+jump S: 0
+- 15:54:14.255 INFO: available moves S: 5
+- 15:54:14.255 INFO: total+jump+available S: 10
+- 15:54:14.257 INFO: white S: -4
+- 15:54:14.257 INFO: red S: 4
+- 15:54:14.257 INFO: total S: 0
+- 15:54:14.257 INFO: total+jump S: 0
+- 15:54:14.257 INFO: available moves S: 8
+- 15:54:14.257 INFO: total+jump+available S: 16
+- 15:54:14.259 INFO: white S: -4
+- 15:54:14.259 INFO: red S: 4
+- 15:54:14.259 INFO: total S: 0
+- 15:54:14.259 INFO: total+jump S: 0
+- 15:54:14.259 INFO: available moves S: 5
+- 15:54:14.259 INFO: total+jump+available S: 10
+- 15:54:14.261 INFO: white S: -4
+- 15:54:14.261 INFO: red S: 4
+- 15:54:14.261 INFO: total S: 0
+- 15:54:14.261 INFO: total+jump S: 0
+- 15:54:14.261 INFO: available moves S: 8
+- 15:54:14.261 INFO: total+jump+available S: 16
+- 15:54:14.264 INFO: white S: -4
+- 15:54:14.264 INFO: red S: 4
+- 15:54:14.264 INFO: total S: 0
+- 15:54:14.264 INFO: total+jump S: 0
+- 15:54:14.264 INFO: available moves S: 5
+- 15:54:14.264 INFO: total+jump+available S: 10
