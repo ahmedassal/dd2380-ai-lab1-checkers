@@ -214,9 +214,15 @@ int Player::MiniMax_AlphaBeta_Search2(const GameState &pState, const Deadline &p
 	
 	int checkersLeft = TotalPiecesNum(pState.toMessage().substr(0,32));
 	
+	
+	// Note how it affects perfromance
 	if (checkersLeft <= 2)
-		maxDepth = 12;
-
+        maxDepth = 12;
+//	else if (checkersLeft <= 4)
+//	    maxDepth = 14;
+//	else if (checkersLeft <= 8)
+//		maxDepth = 16;
+	
     if ((depth == maxDepth) || pState.isEOG()){ //.(TerminalNode(pState))){
 		return Utility(pState, pState.toMessage().substr(0,32), lNextStates.size(), bMaximizingPlayer, checkersLeft);
 	}
@@ -292,7 +298,7 @@ GameState Player::play(const GameState &pState,const Deadline &pDue)
 //    GameState* result;
     GameState resultTemp;
 //    NodeValPair* resultNodevalPair;
-    int maxDepth = 9;
+    int maxDepth = 8;
     resultTemp  = Invoke_MiniMax_AlphaBeta_Search(pState, pDue, MAXPLAYER, maxDepth);
 //    resultTemp = lNextStates[rand() % lNextStates.size()];
     return resultTemp;
