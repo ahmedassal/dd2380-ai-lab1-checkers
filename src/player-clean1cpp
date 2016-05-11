@@ -1,0 +1,743 @@
+
+
+#include <cstdlib>
+#include <iostream>
+#include <string>
+#include <limits>
+
+#include "player.hpp"
+#include "log.h"
+#include "constants.hpp"
+#include <random>
+#include "iso646.h"
+using namespace std;
+
+
+
+//Last work 10-5-2016
+
+
+namespace checkers
+{
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//Constants and globals
+typedef enum SearchChoice{
+	MiniMax =1,
+	DL_MiniMax = 2,
+	AB_MiniMax = 3,
+	Ne_MiniMax = 4,
+	Testing = 100,
+	Random = 101,
+	First = 102,
+	Last = 103,
+	Midpoint = 104,
+	
+	
+
+};
+
+//SearchChoice searchChoice = DL_MiniMax;
+SearchChoice searchChoice = AB_MiniMax;
+//SearchChoice searchChoice = Ne_MiniMax;
+//int searchChoice = 3;
+
+static const bool MINPLAYER = false, MAXPLAYER = true;
+
+static int turn=0;
+const int MinInt = std::numeric_limits<int>::min(); // minimum integer value
+const int MaxInt = std::numeric_limits<int>::max(); // maximum integer value
+const float MinFloat = std::numeric_limits<float>::min(); // minimum integer value
+const float MaxFloat = std::numeric_limits<float>::max(); // maximum integer value
+const int HighestScore = 1000;
+const int LowestScore = -1000;
+int player;
+
+static const int PosWeight[] =
+		{ 4, 4, 4, 4,
+		4, 3, 3, 3,
+		3, 2, 2, 4,
+		4, 2, 1, 3,
+		3, 1, 2, 4,
+		4, 2, 2, 3,
+		3, 3, 3, 4,
+		4, 4, 4, 4};
+
+//Constants and globals
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+int Player::PosValue(int pos, u_int8_t color)
+{
+	int value;
+
+	if(color == CELL_WHITE)
+	{
+		if (pos >= 4 && pos <=7)
+			value = 7;
+		else
+			value = 5;
+	}else
+	{
+		if (pos >= 24 && pos <= 27)
+			value = 7;
+		else
+			value = 5;
+	}
+	return value * PosWeight[pos];
+}
+
+int Player::NumberOfCheckersScore4(const GameState &pState, std::string board, int availableMoves, bool bMaximizingPlayer)
+{
+	int redScore = 0;
+	int whiteScore = 0;
+	for(int i = 0; i<board.length();i++)
+	{
+
+		if(board[i]=='r'){
+			redScore += 1 ;
+		}
+		else if (board[i]=='R'){
+			redScore += 2 ;
+		}
+		else if (board[i]=='w')
+		{
+			whiteScore += 1;
+		}
+		else if (board[i]=='W')
+		{
+			whiteScore += 2;
+		}
+	}
+
+
+	if(plyr == CELL_WHITE){
+		redScore *=-1;
+
+	}
+
+	else if (plyr == CELL_RED)
+	{
+		whiteScore *=-1;
+
+	}
+	LOGINF "white S: " << whiteScore;
+	LOGINF "red S: " << redScore;
+
+	int score = whiteScore + redScore;
+
+	for(int i = 0; i < board.length(); i++)
+	{
+		if (player == CELL_RED && board[i] == 'r')
+			score += (2 * PosValue(i, CELL_RED));
+		else if (player == CELL_WHITE && board[i] == 'w')
+			score += (2 * PosValue(i, CELL_WHITE));
+		else if (player == CELL_RED && board[i] == 'R')
+		{
+			int count = TotalPiecesNum(board);
+			score += (( count<= 5) ? 7 : 6) * PosValue(i, CELL_RED);
+		}
+		else if ( player == CELL_WHITE && board[i] == 'W'){
+			int count = TotalPiecesNum(board);
+			score += (count <= 5 ? 7 : 6) * PosValue(i, CELL_WHITE);
+		}
+	}
+	LOGINF "total S: " <<  score;
+	if(pState.getMove().isJump())
+		score+=4;
+
+	LOGINF "total+jump S: " << score;
+	score+= 2*availableMoves;
+	LOGINF "available moves S: " << availableMoves;
+	LOGINF "total+jump+available S: " << score;
+	return score;
+
+}
+
+
+int Player::NumberOfCheckersScore3(const GameState &pState, std::string board, int availableMoves, bool bMaximizingPlayer)
+{
+	int redScore = 0;
+	int whiteScore = 0;
+	for(int i = 0; i<board.length();i++)
+	{
+		float weight = .5;
+		if(board[i]=='r'){
+			redScore += 1 ;
+		}
+		else if (board[i]=='R'){
+			redScore += 2 ;
+		}
+		else if (board[i]=='w')
+		{
+			whiteScore += 1;
+		}
+		else if (board[i]=='W')
+		{
+			whiteScore += 2;
+		}
+	}
+
+
+	if(plyr == CELL_WHITE){
+		redScore *=-1;
+
+	}
+
+	else if (plyr == CELL_RED)
+	{
+		whiteScore *=-1;
+
+	}
+	LOGINF "white S: " << whiteScore;
+	LOGINF "red S: " << redScore;
+
+	int score = whiteScore + redScore;
+	LOGINF "total S: " <<  score;
+	if(pState.getMove().isJump())
+		score+=4;
+
+	LOGINF "total+jump S: " << score;
+	score+= 2*availableMoves;
+	LOGINF "available moves S: " << availableMoves;
+	LOGINF "total+jump+available S: " << score;
+	return score;
+
+}
+
+
+int Player::NumberOfCheckersScoreWeighted(const GameState &pState, std::string board, bool bMaximizingPlayer)
+{
+	int redScore = 0;
+	int whiteScore = 0;
+	for(int i = 0; i<board.length();i++)
+	{
+		float weight = .5;
+		if(board[i]=='r'){
+			redScore += 1 + PosWeight[i] * weight;
+		}
+		else if (board[i]=='R'){
+			redScore += 2 + PosWeight[i] * weight;
+		}
+		else if (board[i]=='w')
+		{
+			whiteScore += 1 + PosWeight[i] * weight;
+		}
+		else if (board[i]=='W')
+		{
+			whiteScore += 2 + PosWeight[i] * weight;
+		}
+	}
+	if(plyr == CELL_WHITE)
+		redScore *=-1;
+	else if (plyr == CELL_RED)
+		whiteScore *=-1;
+	return whiteScore + redScore;
+
+}
+
+int Player::NumberOfCheckersScore(const GameState &pState, std::string board, bool bMaximizingPlayer)
+{
+	int redScore = 0;
+	int whiteScore = 0;
+	for(int i = 0; i<board.length();i++)
+	{
+		if(board[i]=='r'){
+			redScore += 1;
+		}
+		else if (board[i]=='R'){
+			redScore += 2;
+		}
+		else if (board[i]=='w')
+		{
+			whiteScore += 1;
+		}
+		else if (board[i]=='W')
+		{
+			whiteScore += 2;
+		}
+	}
+	if(plyr == CELL_WHITE)
+		redScore *=-1;
+	else if (plyr == CELL_RED)
+		whiteScore *=-1;
+	return whiteScore + redScore;
+
+}
+
+int Player::scoreBoard(const GameState & pState, string board, int availableMoves, bool bMaximizingPlayer){
+//	return NumberOfCheckersScore(pState, board, bMaximizingPlayer);
+//	return NumberOfCheckersScoreWeighted(pState, board, bMaximizingPlayer);
+//	return NumberOfCheckersScore3(pState, board, availableMoves, bMaximizingPlayer);
+	return NumberOfCheckersScore4(pState, board, availableMoves, bMaximizingPlayer);
+}
+
+bool Player::TerminalNode(const GameState &pState)
+{
+	return pState.isEOG();
+}
+
+
+int  Player::Utility(const GameState &pState, string board, int availableMoves, bool bMaximizingPlayer)
+{
+	if (TerminalNode(pState)){
+		return (bMaximizingPlayer? HighestScore : LowestScore);
+	}
+	return scoreBoard(pState, board, availableMoves, bMaximizingPlayer);
+}
+
+int  Player::NegaMaxUtility(const GameState &pState, string board, int availableMoves, bool bMaximizingPlayer)
+{
+	if (TerminalNode(pState)){
+		return (bMaximizingPlayer? HighestScore : LowestScore);
+	}
+	return scoreBoard(pState, board, availableMoves, bMaximizingPlayer);
+}
+
+//////////////////////////////////////// ////////
+// Minimizing player turn
+//
+// Pseudocode
+////////////////////////////////////////////////
+//def min_play(game_state):
+//    if game_state.is_gameover():
+//        return evaluate(game_state)
+//    moves = game_state.get_available_moves()
+//    best_score = float('inf')
+//    for move in moves:
+//        clone = game_state.next_state(move)
+//        score = max_play(clone)
+//        if score < best_score:
+//            best_move = move
+//            best_score = score
+//    return best_score
+////////////////////////////////////////////////
+//float Player::MinValue(const GameState &pState, const Deadline &pDue, enum PlayerType playerType)
+int Player::MinValue(const GameState &pState, const Deadline &pDue, bool bMaximizingPlayer, int depth)
+{
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	if (TerminalNode(pState))
+	{
+		return Utility(pState, pState.toMessage(), lNextStates.size(), bMaximizingPlayer);
+	};
+
+
+	int bestScore = MaxInt;
+	GameState* bestState = &lNextStates[0];
+
+	for(int i=0; i<lNextStates.size(); i++)
+	{
+//		(playerType == CELL_WHITE? CELL_RED: CELL_WHITE)
+		int score = MaxValue(lNextStates[i], pDue, !bMaximizingPlayer, depth+1);
+
+		if(score < bestScore){
+			bestState = &lNextStates[i];
+			bestScore = score;
+		}
+	}
+	cerr << "Best Score= " << bestScore << endl;
+	return bestScore;
+}
+
+////////////////////////////////////////////////
+// Maximizing player turn
+//
+// Pseudocode
+////////////////////////////////////////////////
+//def max_play(game_state):
+//    if game_state.is_gameover():
+//        return evaluate(game_state)
+//    moves = game_state.get_available_moves()
+//    best_score = float('-inf')
+//    for move in moves:
+//        clone = game_state.next_state(move)
+//        score = min_play(clone)
+//        if score > best_score:
+//            best_move = move
+//            best_score = score
+//    return best_score
+////////////////////////////////////////////////
+//float Player::MaxValue(const GameState &pState, const Deadline &pDue, enum PlayerType playerType)
+int Player::MaxValue(const GameState &pState, const Deadline &pDue, bool bMaximizingPlayer, int depth)
+{
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	if (TerminalNode(pState))
+		{
+			return Utility(pState, pState.toMessage(), lNextStates.size(), bMaximizingPlayer);
+		};
+
+
+	int bestScore = MinInt;
+	GameState* bestState = &lNextStates[0];
+
+	for(int i=0; i<lNextStates.size(); i++)
+	{
+//			(playerType == CELL_WHITE? CELL_RED: CELL_WHITE)
+		int score = MinValue(lNextStates[i], pDue, !bMaximizingPlayer, depth+1);
+
+		if(score > bestScore){
+			bestState = &lNextStates[i];
+			bestScore = score;
+		}
+	}
+	cerr << "Best Score= " << bestScore << endl;
+	return bestScore;
+}
+
+
+// MiniMax Search
+//def minimax(game_state):
+//    moves = game_state.get_available_moves()
+//    best_move = moves[0]
+//    best_score = float('-inf')
+//    for move in moves:
+//        clone = game_state.next_state(move)
+//        score = min_play(clone)
+//        if score > best_score:
+//            best_move = move
+//            best_score = score
+//    return best_move
+
+//GameState* Player::MiniMax_Search(const GameState &pState, const Deadline &pDue, enum PlayerType playerType)
+GameState* Player::MiniMax_Search(const GameState &pState, const Deadline &pDue, bool bMaximizingPlayer, int depth)
+{
+
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	GameState* bestState = &lNextStates[0];
+	LOGINF "lNextStates size: " << lNextStates.size();
+	int bestScore = MinInt;
+
+	for(int i=0;  i<lNextStates.size(); i++)
+	{
+//		(playerType == CELL_WHITE? CELL_RED: CELL_WHITE)
+		int score = MinValue(lNextStates[i], pDue, !bMaximizingPlayer, depth+1);
+		if(score > bestScore)
+		{
+			bestState = &lNextStates[i];
+			bestScore = score;
+		}
+	}
+
+	return bestState;
+}
+
+
+
+//function minimax(node, depth, maximizingPlayer)
+//    if depth = 0 or node is a terminal node
+//        return the heuristic value of node
+//    if maximizingPlayer
+//        bestValue := -∞
+//        for each child of node
+//            val := minimax(child, depth - 1, FALSE)
+//            bestValue := max(bestValue, val)
+//        return bestValue
+//    else
+//        bestValue := +∞
+//        for each child of node
+//            val := minimax(child, depth - 1, TRUE)
+//            bestValue := min(bestValue, val)
+//        return bestValue
+//
+//(* Initial call for maximizing player *)
+//minimax(origin, depth, TRUE)
+
+// Depth Limited MiniMax Search
+
+GameState Player::Invoke_MiniMax_DepthLimited_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth){
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	GameState* bestState = &lNextStates[0];
+
+	int bestValue=MaxInt;
+	for(int i=0;  i<lNextStates.size(); i++)
+	{
+		int value = MiniMax_DepthLimited_Search(lNextStates[i], pDue, MINPLAYER, depth-1);
+
+		if(bestValue < value)
+		{
+			bestValue =  value;
+			bestState = &lNextStates[i];
+		}
+	}
+	return *bestState;
+}
+
+int Player::MiniMax_DepthLimited_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth)
+{
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	if ((depth <= 0) || (TerminalNode(pState))){
+		return Utility(pState, pState.toMessage().substr(0,32), lNextStates.size(), bMaximizingPlayer);
+	}
+
+	GameState* bestState = &lNextStates[0];
+	int bestValue;
+
+	if (MAXPLAYER){
+		bestValue = MinInt;
+		for(int i=0;  i<lNextStates.size(); i++)
+		{
+			int value = MiniMax_DepthLimited_Search(lNextStates[i], pDue, MINPLAYER, depth-1);
+			if(bestValue < value)
+			{
+				bestValue =  value;
+			}
+		}
+	}
+	else if (MINPLAYER){
+		bestValue = MaxInt;
+		for(int i=0; i<lNextStates.size(); i++)
+		{
+			int value = MiniMax_DepthLimited_Search(lNextStates[i], pDue, MAXPLAYER, depth-1);
+			if(bestValue > value)
+			{
+				bestValue = value;
+			}
+		}
+	}
+	return bestValue;
+}
+
+//AlpaBeta Prunning
+GameState Player::Invoke_MiniMax_AlphaBeta_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth, float alpha, float beta){
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	GameState* bestState = &lNextStates[0];
+
+	int value;
+	for(int i=0;  i<lNextStates.size(); i++)
+	{
+		value = MiniMax_AlphaBeta_Search(lNextStates[i], pDue, MINPLAYER, depth-1, alpha, beta);
+		if( alpha < value ){
+			alpha = value;
+			bestState = &lNextStates[i];
+		}
+		if(alpha >= beta)
+			break;
+	}
+	return *bestState;
+}
+
+int Player::MiniMax_AlphaBeta_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth, float alpha, float beta)
+{
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+
+	if ((depth <= 0) || (TerminalNode(pState))){
+		return Utility(pState, pState.toMessage().substr(0,32), lNextStates.size(), bMaximizingPlayer);
+	}
+	GameState* bestState = &lNextStates[0];
+	int value;
+	if (MAXPLAYER){
+		for(int i=0;  i<lNextStates.size(); i++)
+		{
+			value = MiniMax_AlphaBeta_Search(lNextStates[i], pDue, MINPLAYER, depth-1, alpha, beta);
+			if(alpha < value)
+			{
+				alpha =  value;
+			}
+			if(alpha >= beta)
+						break;
+			return alpha;
+		}
+	}
+	else if (MINPLAYER){
+		for(int i=0;  i<lNextStates.size(); i++)
+		{
+			value = MiniMax_AlphaBeta_Search(lNextStates[i], pDue, MAXPLAYER, depth-1, alpha, beta);
+			if(beta > value)
+			{
+				beta = value;
+			}
+			if(alpha >= beta)
+						break;
+			return beta;
+		}
+	}
+}
+
+
+// NegaMax_AlphaBeta_Search
+Player::NodeValPair* Player::NegaMax_AlphaBeta_Search(const GameState &pState, const Deadline &pDue, int depth, int alpha, int beta)
+{
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	if ((depth <= 0) || (TerminalNode(pState))){
+		NodeValPair* nodeValuePair = new NodeValPair(0, NegaMaxUtility(pState, pState.toMessage().substr(0,32), lNextStates.size(), true));
+		return nodeValuePair;
+
+	}
+	GameState* bestState = 0;
+	int bestScore = MinInt;
+	NodeValPair* bestNodeValPair;
+
+	for(int i=0;  i<lNextStates.size(); i++)
+	{
+		NodeValPair* resultNodeValPair = NegaMax_AlphaBeta_Search(pState, pDue, depth-1, -std::max(alpha, bestScore), -beta);
+		int currentScore = - resultNodeValPair->value;
+		if (currentScore > bestScore){
+			bestScore = currentScore;
+			bestState = resultNodeValPair->state;
+		}
+		bestNodeValPair = new NodeValPair(bestState, bestScore);
+		if(bestScore >= beta){
+			return bestNodeValPair;
+		}
+	}
+	return bestNodeValPair;
+}
+
+int Player::TotalPiecesNum(const std::string checkerBoard)
+{
+	int count  = 0;
+	for(int i = 0; i++; i<checkerBoard.length())
+	{
+		if(checkerBoard[i]== 'W' | checkerBoard[i]== 'w' | checkerBoard[i]== 'R' | checkerBoard[i]== 'r' )
+		{
+			count++;
+		}
+	}
+	return count;
+}
+
+void Player::LogNxtMovs(const GameState &pState){
+    std::vector<GameState> lNextStates;
+    pState.findPossibleMoves(lNextStates);
+    int size = lNextStates.size();
+    uint8_t player = pState.getNextPlayer();
+
+    LOGDEB1 "########## START TURN ##########";
+    LOGDEB1 "Next Player: "<< player;
+    LOGDEB1 "lNextStates Size "<< size;
+	for(int i = 0; i< size; i++){
+		FILE_LOG(logDEBUG1)<< "\n" << lNextStates[i].toString(player);
+	}
+	LOGDEB1 "##########  END TURN  ##########";
+}
+
+GameState Player::Invoke_Test_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth){
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	GameState* bestState = &lNextStates[0];
+
+	string pastMove = pState.getMove().toString();
+	LOGINF "Prev move (string): " << pastMove;
+	pastMove = pState.getMove().toMessage();
+	LOGINF "Prev move (message): " << pastMove;
+	string curMove = bestState->getMove().toString();
+	LOGINF "Suggested move (string): " << curMove;
+	curMove = bestState->getMove().toMessage();
+	LOGINF "Suggested move (message): " << curMove;
+	return *bestState;
+
+
+}
+
+int Player::Test_Search(const GameState &pState, const Deadline &pDue,  bool bMaximizingPlayer, int depth)
+{
+	LOGLOC
+	LOGINF "depth " << depth << " player " << (bMaximizingPlayer?"True":"False");
+
+	std::vector<GameState> lNextStates;
+	pState.findPossibleMoves(lNextStates);
+	GameState* bestState = &lNextStates[0];
+	float bestValue;
+	return bestValue;
+}
+
+
+
+GameState Player::play(const GameState &pState,const Deadline &pDue)
+{
+//	FILELog::ReportingLevel() = FILELog::FromString("INFO");
+//	FILE* pFile = fopen("./debug.log", "a");
+//	Output2FILE::Stream() = pFile;
+//
+//	LOGLOC
+//	LOGINF "#################################################################";
+//	LOGINF "Turn# " << turn;
+//	LOGINF "Next Player# " << pState.getNextPlayer();
+//	LOGINF "#################################################################";
+
+
+	plyr = pState.getNextPlayer();
+
+//	LogNxtMovs(pState);
+
+    std::vector<GameState> lNextStates;
+    pState.findPossibleMoves(lNextStates);
+//    LOGINF "Board: " << pState.toMessage().substr(0,32);
+    if (lNextStates.size() == 0) return GameState(pState, Move());
+    /*
+     * Here you should write your clever algorithms to get the best next move, ie the best
+     * next state. This skeleton returns a random move instead.
+     */
+    GameState* result;
+    GameState resultTemp;
+    NodeValPair* resultNodevalPair;
+    switch(searchChoice)
+	{
+		case MiniMax:
+			LOGDEB "Calling MiniMax_Search";
+//			result  = MiniMax_Search(pState, pDue, PlayerType::min);
+			result  = MiniMax_Search(pState, pDue, (plyr) , 0);
+			resultTemp = *result;
+			break;
+
+		case DL_MiniMax:
+			LOGDEB "Calling Depth_Limited_MiniMax_Search";
+			//best So far 4 turns @depth of 5
+			resultTemp = Invoke_MiniMax_DepthLimited_Search(pState, pDue, MAXPLAYER, 3);
+			break;
+		case AB_MiniMax:
+//			LOGDEB "Calling AlphaBetaPruning_Search";
+			//best So far 16 turns @depth of 2
+			//12 38
+			//102 24
+
+			resultTemp  = Invoke_MiniMax_AlphaBeta_Search(pState, pDue, MAXPLAYER, 25, MinInt, MaxInt);
+			break;
+			
+		case Ne_MiniMax:
+        	LOGDEB "Calling NegaMax_AlphaBeta_Search";
+        	resultNodevalPair  = NegaMax_AlphaBeta_Search(pState, pDue, 8, MinInt, MaxInt);
+        	break;
+      	
+		case Testing:
+			LOGDEB "Calling test";
+
+			resultTemp = Invoke_Test_Search(pState, pDue, true, 3);
+			break;
+			
+		case Random:
+			LOGDEB "Calling rand";
+			resultTemp = lNextStates[rand() % lNextStates.size()];
+			break;
+			
+		case First:
+			LOGDEB "Calling first";
+			resultTemp = lNextStates[0];
+			break;
+			
+		case Last:
+			LOGDEB "Calling last";
+			resultTemp = lNextStates[lNextStates.size()-1];
+			break;
+			
+		case Midpoint:
+			LOGDEB "Calling midpoint";
+			resultTemp = lNextStates[lNextStates.size()/2];
+			break;
+	}
+
+    turn++;
+//    return *resultNodevalPair->state;
+    return resultTemp;
+}
+
+/*namespace checkers*/ }
